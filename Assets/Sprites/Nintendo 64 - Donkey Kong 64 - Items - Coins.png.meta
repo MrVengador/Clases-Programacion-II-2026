@@ -1,0 +1,1241 @@
+fileFormatVersion: 2
+guid: 048aa7fd5d48ae84895776fa24d28672
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2871965294696785757
+    second: Nintendo 64 - Donkey Kong 64 - Items - Coins_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Nintendo 64 - Donkey Kong 64 - Items - Coins_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 279
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d57e6ad18354bd720800000000000000
+      internalID: 2871965294696785757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Donkey Kong 64 - Items - Coins_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 279
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3957245e8769a34e903fb7478984bfb
+      internalID: 865005977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Donkey Kong 64 - Items - Coins_2
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 279
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d76427e22cf5e3345bceeee4b4172b97
+      internalID: -979745751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Donkey Kong 64 - Items - Coins_3
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 279
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32738545525799641b22b6d42519e371
+      internalID: 1688168477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Donkey Kong 64 - Items - Coins_4
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 279
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd6b9dccd3a8fb4fb3f3d79786ea359
+      internalID: -704955209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Donkey Kong 64 - Items - Coins_5
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 279
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 974f4cc2d3f90794bbed0377e9eff66a
+      internalID: 1687505721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Donkey Kong 64 - Items - Coins_6
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 279
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 825a5e1385630a440a12888cc81d8167
+      internalID: 1758744956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Donkey Kong 64 - Items - Coins_7
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 279
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef95f5fa8864f414fb64eefe2baf7846
+      internalID: -2017904345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Donkey Kong 64 - Items - Coins_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 230
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb20cd0ead01fc745b854bf0d7f1cbd4
+      internalID: -857000675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Donkey Kong 64 - Items - Coins_9
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 230
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 086f3007e7f74b54ea0a0677c2f5e3b8
+      internalID: 78162052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Donkey Kong 64 - Items - Coins_10
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 230
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d680ac5e69412d348bac1805885dd310
+      internalID: -905982425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Donkey Kong 64 - Items - Coins_11
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 230
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2670f256b06807342a27430ae486f14b
+      internalID: 1168455517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Donkey Kong 64 - Items - Coins_12
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 230
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe576001d5593e4a860d2a88c2cadb1
+      internalID: 245146181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Donkey Kong 64 - Items - Coins_13
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 230
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 507111e263b5d11408676a49df4bdd92
+      internalID: 622896498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Donkey Kong 64 - Items - Coins_14
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 230
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20472263ddfec8c438690ec6e202b1b7
+      internalID: 1417316118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Donkey Kong 64 - Items - Coins_15
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 230
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79aa8c959e025b84cad8a7c1b404c22a
+      internalID: 360126389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Donkey Kong 64 - Items - Coins_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 181
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b3f66c6cd5561a4f99a1da56531672f
+      internalID: 334476260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Donkey Kong 64 - Items - Coins_17
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 181
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2771db29a7d17af478d6fcd64796ae5c
+      internalID: -1975261441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Donkey Kong 64 - Items - Coins_18
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 181
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc98f40e77a3a934dac10ef6cac77b73
+      internalID: -1217556298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Donkey Kong 64 - Items - Coins_19
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 181
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d476499bb0fb7eb47ae94c8d77eb1fcc
+      internalID: -1864931250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Donkey Kong 64 - Items - Coins_20
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 181
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0abe62d54eed74a48a9607257543a636
+      internalID: 1407472635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Donkey Kong 64 - Items - Coins_21
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 181
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cabdad2a938dfa498f748f6a79fb36a
+      internalID: -1826014684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Donkey Kong 64 - Items - Coins_22
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 181
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 194ac27400bcba24994d456fb24c0eec
+      internalID: -2114589045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Donkey Kong 64 - Items - Coins_23
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 181
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f77c87128ef2344fbd050406ff7cba4
+      internalID: -787673985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Donkey Kong 64 - Items - Coins_24
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 132
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a1e491e37744d478f8646a0b250358
+      internalID: -2093696084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Donkey Kong 64 - Items - Coins_25
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 132
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f4c69e1709f1bc4baaab6a4071de564
+      internalID: 1210734248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Donkey Kong 64 - Items - Coins_26
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 132
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c6f11988169cff49aa8d670e9d05d1a
+      internalID: 1639080104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Donkey Kong 64 - Items - Coins_27
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 132
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9affde909a285544ebfb71fa24d97874
+      internalID: -2047632440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Donkey Kong 64 - Items - Coins_28
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 132
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd5ddaddf9c32d4bbf38c69f3f75cbf
+      internalID: -404641213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Donkey Kong 64 - Items - Coins_29
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 132
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5086824e2d246894d8492beeb98c4c91
+      internalID: -1198725847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Donkey Kong 64 - Items - Coins_30
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 132
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5d548381ca22dd4c82562d79a391857
+      internalID: 959976683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Donkey Kong 64 - Items - Coins_31
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 132
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a351738f8cf9b6743bb1f54fa5ef241e
+      internalID: 728006551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Donkey Kong 64 - Items - Coins_32
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 83
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b8cf43247c8e0468d6a48a7fe4cf83
+      internalID: 347711772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Donkey Kong 64 - Items - Coins_33
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 83
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2121a600d573f3040bf2b889afac2eaa
+      internalID: -406582715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Donkey Kong 64 - Items - Coins_34
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 83
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21634e399d0dbf0408c5e22effeffaf3
+      internalID: -1329210156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Donkey Kong 64 - Items - Coins_35
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 83
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c35fbf056d3de034ab28d536a4c2e8cd
+      internalID: -1434184254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Donkey Kong 64 - Items - Coins_36
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 83
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bee18768b9a6a647abc1f7c56d0b747
+      internalID: -1299220304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Donkey Kong 64 - Items - Coins_37
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 83
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a273d10f344d9c146948d0b21b2d421d
+      internalID: 1493718414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Donkey Kong 64 - Items - Coins_38
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 83
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adef1f3ae30bb144e8a58f5a9b5ee18c
+      internalID: 127727539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Donkey Kong 64 - Items - Coins_39
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 83
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f49e51249bc322741a3645707a5539ce
+      internalID: -1267637744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Donkey Kong 64 - Items - Coins_40
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 34
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b8ef58e78356ce4abd4eff5409ad161
+      internalID: -238477871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Donkey Kong 64 - Items - Coins_41
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 34
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a34c6cdcd78039847a56654f484d4962
+      internalID: -771207536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Donkey Kong 64 - Items - Coins_42
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 34
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6536d1187bbcd384f9df86627fbd0047
+      internalID: 2073527733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Donkey Kong 64 - Items - Coins_43
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 34
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: def94948a3438eb48baa84634310fb5f
+      internalID: 1907682519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Donkey Kong 64 - Items - Coins_44
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 34
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18dc6e3d756334d4da66c211f1ed369a
+      internalID: -1734525012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Donkey Kong 64 - Items - Coins_45
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 34
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd7265f68f2299849831ff53b76aba93
+      internalID: 2098321167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Donkey Kong 64 - Items - Coins_46
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 34
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae8125a9d216bed4dbee85d1f13e8806
+      internalID: 1105418169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nintendo 64 - Donkey Kong 64 - Items - Coins_47
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 34
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e0f48f2730ae124bb0b19fc94e71c07
+      internalID: 2091606243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 38a8f2cf903c95a4998c75f15cd0ef0a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":true,"gridCellCount":{"x":8.0,"y":6.0},"gridSpriteSize":{"x":48.0,"y":48.0},"gridSpriteOffset":{"x":1.0,"y":1.0},"gridSpritePadding":{"x":0.0,"y":1.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+      - key: SpriteEditor.SliceOnImport
+        value: True
+    nameFileIdTable:
+      Nintendo 64 - Donkey Kong 64 - Items - Coins_0: 2871965294696785757
+      Nintendo 64 - Donkey Kong 64 - Items - Coins_1: 865005977
+      Nintendo 64 - Donkey Kong 64 - Items - Coins_10: -905982425
+      Nintendo 64 - Donkey Kong 64 - Items - Coins_11: 1168455517
+      Nintendo 64 - Donkey Kong 64 - Items - Coins_12: 245146181
+      Nintendo 64 - Donkey Kong 64 - Items - Coins_13: 622896498
+      Nintendo 64 - Donkey Kong 64 - Items - Coins_14: 1417316118
+      Nintendo 64 - Donkey Kong 64 - Items - Coins_15: 360126389
+      Nintendo 64 - Donkey Kong 64 - Items - Coins_16: 334476260
+      Nintendo 64 - Donkey Kong 64 - Items - Coins_17: -1975261441
+      Nintendo 64 - Donkey Kong 64 - Items - Coins_18: -1217556298
+      Nintendo 64 - Donkey Kong 64 - Items - Coins_19: -1864931250
+      Nintendo 64 - Donkey Kong 64 - Items - Coins_2: -979745751
+      Nintendo 64 - Donkey Kong 64 - Items - Coins_20: 1407472635
+      Nintendo 64 - Donkey Kong 64 - Items - Coins_21: -1826014684
+      Nintendo 64 - Donkey Kong 64 - Items - Coins_22: -2114589045
+      Nintendo 64 - Donkey Kong 64 - Items - Coins_23: -787673985
+      Nintendo 64 - Donkey Kong 64 - Items - Coins_24: -2093696084
+      Nintendo 64 - Donkey Kong 64 - Items - Coins_25: 1210734248
+      Nintendo 64 - Donkey Kong 64 - Items - Coins_26: 1639080104
+      Nintendo 64 - Donkey Kong 64 - Items - Coins_27: -2047632440
+      Nintendo 64 - Donkey Kong 64 - Items - Coins_28: -404641213
+      Nintendo 64 - Donkey Kong 64 - Items - Coins_29: -1198725847
+      Nintendo 64 - Donkey Kong 64 - Items - Coins_3: 1688168477
+      Nintendo 64 - Donkey Kong 64 - Items - Coins_30: 959976683
+      Nintendo 64 - Donkey Kong 64 - Items - Coins_31: 728006551
+      Nintendo 64 - Donkey Kong 64 - Items - Coins_32: 347711772
+      Nintendo 64 - Donkey Kong 64 - Items - Coins_33: -406582715
+      Nintendo 64 - Donkey Kong 64 - Items - Coins_34: -1329210156
+      Nintendo 64 - Donkey Kong 64 - Items - Coins_35: -1434184254
+      Nintendo 64 - Donkey Kong 64 - Items - Coins_36: -1299220304
+      Nintendo 64 - Donkey Kong 64 - Items - Coins_37: 1493718414
+      Nintendo 64 - Donkey Kong 64 - Items - Coins_38: 127727539
+      Nintendo 64 - Donkey Kong 64 - Items - Coins_39: -1267637744
+      Nintendo 64 - Donkey Kong 64 - Items - Coins_4: -704955209
+      Nintendo 64 - Donkey Kong 64 - Items - Coins_40: -238477871
+      Nintendo 64 - Donkey Kong 64 - Items - Coins_41: -771207536
+      Nintendo 64 - Donkey Kong 64 - Items - Coins_42: 2073527733
+      Nintendo 64 - Donkey Kong 64 - Items - Coins_43: 1907682519
+      Nintendo 64 - Donkey Kong 64 - Items - Coins_44: -1734525012
+      Nintendo 64 - Donkey Kong 64 - Items - Coins_45: 2098321167
+      Nintendo 64 - Donkey Kong 64 - Items - Coins_46: 1105418169
+      Nintendo 64 - Donkey Kong 64 - Items - Coins_47: 2091606243
+      Nintendo 64 - Donkey Kong 64 - Items - Coins_5: 1687505721
+      Nintendo 64 - Donkey Kong 64 - Items - Coins_6: 1758744956
+      Nintendo 64 - Donkey Kong 64 - Items - Coins_7: -2017904345
+      Nintendo 64 - Donkey Kong 64 - Items - Coins_8: -857000675
+      Nintendo 64 - Donkey Kong 64 - Items - Coins_9: 78162052
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

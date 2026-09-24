@@ -1,0 +1,2169 @@
+fileFormatVersion: 2
+guid: 89547d25e42a8be47b93168ae0bf5423
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6766436266263065555
+    second: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_0
+  - first:
+      213: -5363292307972262782
+    second: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_1
+  - first:
+      213: 2326358953802174427
+    second: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_2
+  - first:
+      213: 2438958927162901048
+    second: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_3
+  - first:
+      213: -1056159321461927315
+    second: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_4
+  - first:
+      213: -7196518697013722638
+    second: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_5
+  - first:
+      213: 3083820470231616324
+    second: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_6
+  - first:
+      213: -3266824263403629069
+    second: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_7
+  - first:
+      213: 1262521132765886040
+    second: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_8
+  - first:
+      213: -8509436772720986988
+    second: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_9
+  - first:
+      213: -3474709131513073631
+    second: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_10
+  - first:
+      213: -9084409486505614115
+    second: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_11
+  - first:
+      213: -7785607793020272119
+    second: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_12
+  - first:
+      213: 377688602124898500
+    second: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_13
+  - first:
+      213: 1146199454515664460
+    second: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_14
+  - first:
+      213: -1490663376675329511
+    second: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_15
+  - first:
+      213: -8819340663472759895
+    second: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_16
+  - first:
+      213: -3882833345335470373
+    second: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_17
+  - first:
+      213: -5270266608346996907
+    second: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_18
+  - first:
+      213: -6927529219934200833
+    second: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_19
+  - first:
+      213: -7557249590041916682
+    second: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_20
+  - first:
+      213: 912696959790906836
+    second: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_21
+  - first:
+      213: 1069801795995941834
+    second: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_22
+  - first:
+      213: 2789642727241635177
+    second: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_23
+  - first:
+      213: 667716014678988874
+    second: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_24
+  - first:
+      213: -5012323953839874465
+    second: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_25
+  - first:
+      213: -5518858885119305782
+    second: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_26
+  - first:
+      213: 6938429960745749518
+    second: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_27
+  - first:
+      213: 4421583443055031651
+    second: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_28
+  - first:
+      213: -4880587625254573391
+    second: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_29
+  - first:
+      213: 9084049936393052992
+    second: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_30
+  - first:
+      213: 130930930355529519
+    second: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_31
+  - first:
+      213: -8730764574655926375
+    second: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_32
+  - first:
+      213: 4104686377704911505
+    second: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_33
+  - first:
+      213: -6057704363765375416
+    second: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_34
+  - first:
+      213: 2749609859454259848
+    second: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_35
+  - first:
+      213: 3651900549345335632
+    second: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_36
+  - first:
+      213: 1320823303530489941
+    second: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_37
+  - first:
+      213: -7541606782971608958
+    second: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_38
+  - first:
+      213: 4392822464238905935
+    second: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_39
+  - first:
+      213: 5446190928576077976
+    second: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_40
+  - first:
+      213: 2052572757750141573
+    second: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_41
+  - first:
+      213: -8390457698984466412
+    second: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_42
+  - first:
+      213: 7458907427997123398
+    second: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_43
+  - first:
+      213: 495681523678469152
+    second: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_44
+  - first:
+      213: -5681457571386118917
+    second: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_45
+  - first:
+      213: 4391371782780164513
+    second: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_46
+  - first:
+      213: 3980664333923314135
+    second: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_47
+  - first:
+      213: 345070260733005663
+    second: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_48
+  - first:
+      213: -1148706897380981737
+    second: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_49
+  - first:
+      213: -6959309489925487001
+    second: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_50
+  - first:
+      213: -6150433516917887200
+    second: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_51
+  - first:
+      213: -3043268319952588957
+    second: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_52
+  - first:
+      213: -7414551325645283751
+    second: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_53
+  - first:
+      213: 3462169119093209439
+    second: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_54
+  - first:
+      213: 3470002978285960551
+    second: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_55
+  - first:
+      213: -5006581417082129016
+    second: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_56
+  - first:
+      213: -3563873214536119357
+    second: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_57
+  - first:
+      213: 4205818614177822671
+    second: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_58
+  - first:
+      213: 6424640701292876960
+    second: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_59
+  - first:
+      213: -657857470354658907
+    second: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_60
+  - first:
+      213: -5553885540526577741
+    second: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_61
+  - first:
+      213: -2104106590994194380
+    second: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_62
+  - first:
+      213: -8811669532212810702
+    second: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_63
+  - first:
+      213: -9193488485144211104
+    second: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_64
+  - first:
+      213: 2278894963847696558
+    second: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_65
+  - first:
+      213: -5431897167989897671
+    second: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_66
+  - first:
+      213: -2670936637722541684
+    second: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_67
+  - first:
+      213: 4562986552991340754
+    second: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_68
+  - first:
+      213: -3992005530338883779
+    second: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_69
+  - first:
+      213: 2991968104113211784
+    second: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_70
+  - first:
+      213: -3880195815907890922
+    second: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_71
+  - first:
+      213: -7272096697442866645
+    second: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_72
+  - first:
+      213: 254472043036579720
+    second: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_73
+  - first:
+      213: 8103656161676527229
+    second: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_74
+  - first:
+      213: -856866441859091038
+    second: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_75
+  - first:
+      213: 1155372461151424933
+    second: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_76
+  - first:
+      213: 4142185667975945501
+    second: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_77
+  - first:
+      213: -1012000927367484137
+    second: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_78
+  - first:
+      213: 9129144664020136842
+    second: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_79
+  - first:
+      213: 7037323150358230851
+    second: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_80
+  - first:
+      213: -4321134105027226398
+    second: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_81
+  - first:
+      213: -6809319790457692573
+    second: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_82
+  - first:
+      213: 520650854001314161
+    second: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_83
+  - first:
+      213: 4166318689708956337
+    second: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_84
+  - first:
+      213: -6490694710971484072
+    second: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_85
+  - first:
+      213: -2607130325810785508
+    second: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_86
+  - first:
+      213: -3536330396655363782
+    second: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_87
+  - first:
+      213: 74543782304446228
+    second: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_88
+  - first:
+      213: -8442610015476519652
+    second: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_89
+  - first:
+      213: -7942115351253746208
+    second: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_90
+  - first:
+      213: -7612438727713049258
+    second: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_91
+  - first:
+      213: 7920665407002769799
+    second: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_92
+  - first:
+      213: -4156640774216686315
+    second: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_93
+  - first:
+      213: -6163893728325318455
+    second: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_94
+  - first:
+      213: -7766453225111982653
+    second: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_95
+  - first:
+      213: -6738417770371567018
+    second: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_96
+  - first:
+      213: -8930109368580883816
+    second: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_97
+  - first:
+      213: -1310605354322918035
+    second: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_98
+  - first:
+      213: -5105509338258051311
+    second: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_99
+  - first:
+      213: 1131847699731513791
+    second: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_100
+  - first:
+      213: 2220001408382602160
+    second: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_101
+  - first:
+      213: -6653089033489418520
+    second: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_102
+  - first:
+      213: -6686457076920392014
+    second: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_103
+  - first:
+      213: 6887117206927564048
+    second: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_104
+  - first:
+      213: 7965944105786078586
+    second: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_105
+  - first:
+      213: 5206491203374109752
+    second: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_106
+  - first:
+      213: 6834204842251504450
+    second: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_107
+  - first:
+      213: -1574852149778255294
+    second: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_108
+  - first:
+      213: 1047795840824170377
+    second: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_109
+  - first:
+      213: -5666062635224925781
+    second: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_110
+  - first:
+      213: 1046789206996376408
+    second: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_111
+  - first:
+      213: -4639802869514080363
+    second: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_112
+  - first:
+      213: 8779781655144453098
+    second: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_113
+  - first:
+      213: -3092348477472080044
+    second: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_114
+  - first:
+      213: 2551444963196480739
+    second: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_115
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 302
+        width: 106
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d33eed1fe537ed50800000000000000
+      internalID: 6766436266263065555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_1
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 263
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2847ab4df02c195b0800000000000000
+      internalID: -5363292307972262782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_4
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 275
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d625b0261b4c751f0800000000000000
+      internalID: -1056159321461927315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_5
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 275
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f14a05bf54d02c90800000000000000
+      internalID: -7196518697013722638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_6
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 275
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44bcb3ff06eebca20800000000000000
+      internalID: 3083820470231616324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_7
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 275
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f5133c04a8e9a2d0800000000000000
+      internalID: -3266824263403629069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_8
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 275
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8563fe7f740658110800000000000000
+      internalID: 1262521132765886040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_9
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 275
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 494b153175868e980800000000000000
+      internalID: -8509436772720986988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_10
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 275
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1207b56647a57cfc0800000000000000
+      internalID: -3474709131513073631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_11
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 275
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd4e4aa04b1bde180800000000000000
+      internalID: -9084409486505614115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_16
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 243
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab5c88b4686b9580800000000000000
+      internalID: -8819340663472759895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_17
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 243
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd6dc3105a76d1ac0800000000000000
+      internalID: -3882833345335470373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_18
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 243
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55fdfd951704cd6b0800000000000000
+      internalID: -5270266608346996907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_19
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 242
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffbdeaac0e87cdf90800000000000000
+      internalID: -6927529219934200833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_20
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 242
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fac592b9814f1790800000000000000
+      internalID: -7557249590041916682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_21
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 243
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dd7aeb9c0d8aac00800000000000000
+      internalID: 912696959790906836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_22
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 243
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acbb96eb013b8de00800000000000000
+      internalID: 1069801795995941834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_23
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 243
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9655d7fb74dc6b620800000000000000
+      internalID: 2789642727241635177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_30
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 210
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0432e9ca947011e70800000000000000
+      internalID: 9084049936393052992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_31
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 210
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f27e3f9ccf821d100800000000000000
+      internalID: 130930930355529519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_32
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 210
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99fa11e70e716d680800000000000000
+      internalID: -8730764574655926375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_33
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 210
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1927c715386c6f830800000000000000
+      internalID: 4104686377704911505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_34
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 210
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84e5e6be9f5beeba0800000000000000
+      internalID: -6057704363765375416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_35
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 210
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 882deaf5993982620800000000000000
+      internalID: 2749609859454259848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_36
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 210
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05958c673382ea230800000000000000
+      internalID: 3651900549345335632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_37
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 210
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5582ef9ebc1845210800000000000000
+      internalID: 1320823303530489941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_49
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 176
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 714c096b929fe00f0800000000000000
+      internalID: -1148706897380981737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_50
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 176
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7668cf214e09b6f90800000000000000
+      internalID: -6959309489925487001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_51
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 176
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02fe3718d4545aaa0800000000000000
+      internalID: -6150433516917887200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_52
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 176
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36fa601469324c5d0800000000000000
+      internalID: -3043268319952588957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_53
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 176
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95ed2027ad83a1990800000000000000
+      internalID: -7414551325645283751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_54
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 176
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f59b0ef68781c0030800000000000000
+      internalID: 3462169119093209439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_55
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 176
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76d384ae25de72030800000000000000
+      internalID: 3470002978285960551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_56
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 176
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8857fb72abc058ab0800000000000000
+      internalID: -5006581417082129016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_57
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 176
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cb8b0f81349a8ec0800000000000000
+      internalID: -3563873214536119357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_58
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 176
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc77bc70fb11e5a30800000000000000
+      internalID: 4205818614177822671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_63
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 143
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23ca2562f39a6b580800000000000000
+      internalID: -8811669532212810702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_64
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 143
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 061d5549eea2a6080800000000000000
+      internalID: -9193488485144211104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_65
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 143
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea0919045e240af10800000000000000
+      internalID: 2278894963847696558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_66
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 143
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 936038d1e460e94b0800000000000000
+      internalID: -5431897167989897671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_67
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 143
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c81c8fa774deeead0800000000000000
+      internalID: -2670936637722541684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_68
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 143
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d8deed181cf25f30800000000000000
+      internalID: 4562986552991340754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_69
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 143
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3781c6ee1c8998c0800000000000000
+      internalID: -3992005530338883779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_70
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 143
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88987f8732b958920800000000000000
+      internalID: 2991968104113211784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_71
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 143
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6196adda676c62ac0800000000000000
+      internalID: -3880195815907890922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_72
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 143
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2a60a83592541b90800000000000000
+      internalID: -7272096697442866645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_73
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 143
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 887967299f0188300800000000000000
+      internalID: 254472043036579720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_91
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 101
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 655bc304f4f2b5690800000000000000
+      internalID: -7612438727713049258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_92
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 101
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 789ff11e83bdbed60800000000000000
+      internalID: 7920665407002769799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_93
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 101
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 515e8e91d35a056c0800000000000000
+      internalID: -4156640774216686315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_94
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 101
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c849e1df43757aa0800000000000000
+      internalID: -6163893728325318455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_95
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 101
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cd6380b0f3083490800000000000000
+      internalID: -7766453225111982653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_96
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 101
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 652b2d05db45c72a0800000000000000
+      internalID: -6738417770371567018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_97
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 101
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89a3950d7d0e11480800000000000000
+      internalID: -8930109368580883816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_98
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 101
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d658bd6cf5bcfcde0800000000000000
+      internalID: -1310605354322918035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_99
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 76
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11f60b79e469529b0800000000000000
+      internalID: -5105509338258051311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_100
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 76
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb107527c7125bf00800000000000000
+      internalID: 1131847699731513791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_101
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 76
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bb0383d4870fce10800000000000000
+      internalID: 2220001408382602160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_102
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 76
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e6f0db06ca7ba3a0800000000000000
+      internalID: -6653089033489418520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_103
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 76
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b6634407bee433a0800000000000000
+      internalID: -6686457076920392014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_104
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 76
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01dd5653c94f39f50800000000000000
+      internalID: 6887117206927564048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_105
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 76
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a75fef575f7bc8e60800000000000000
+      internalID: 7965944105786078586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_106
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 76
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8345f4f0a2c214840800000000000000
+      internalID: 5206491203374109752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_107
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 48
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24bc7a84819f7de50800000000000000
+      internalID: 6834204842251504450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_108
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 48
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 242f4be4050052ae0800000000000000
+      internalID: -1574852149778255294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_109
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 48
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 987d47904c48a8e00800000000000000
+      internalID: 1047795840824170377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_110
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 48
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba9fd48ad0a1e51b0800000000000000
+      internalID: -5666062635224925781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_111
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 48
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85b5bb5dc31f68e00800000000000000
+      internalID: 1046789206996376408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_112
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 48
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59f66c67fdb1c9fb0800000000000000
+      internalID: -4639802869514080363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_113
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 48
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae35068e5ec08d970800000000000000
+      internalID: 8779781655144453098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_114
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 48
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45f7e869175c515d0800000000000000
+      internalID: -3092348477472080044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c9d330ab49ec13047a833cd9e9ee936b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_0: 6766436266263065555
+      Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_1: -5363292307972262782
+      Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_10: -3474709131513073631
+      Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_100: 1131847699731513791
+      Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_101: 2220001408382602160
+      Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_102: -6653089033489418520
+      Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_103: -6686457076920392014
+      Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_104: 6887117206927564048
+      Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_105: 7965944105786078586
+      Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_106: 5206491203374109752
+      Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_107: 6834204842251504450
+      Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_108: -1574852149778255294
+      Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_109: 1047795840824170377
+      Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_11: -9084409486505614115
+      Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_110: -5666062635224925781
+      Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_111: 1046789206996376408
+      Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_112: -4639802869514080363
+      Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_113: 8779781655144453098
+      Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_114: -3092348477472080044
+      Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_115: 2551444963196480739
+      Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_12: -7785607793020272119
+      Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_13: 377688602124898500
+      Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_14: 1146199454515664460
+      Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_15: -1490663376675329511
+      Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_16: -8819340663472759895
+      Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_17: -3882833345335470373
+      Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_18: -5270266608346996907
+      Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_19: -6927529219934200833
+      Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_2: 2326358953802174427
+      Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_20: -7557249590041916682
+      Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_21: 912696959790906836
+      Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_22: 1069801795995941834
+      Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_23: 2789642727241635177
+      Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_24: 667716014678988874
+      Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_25: -5012323953839874465
+      Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_26: -5518858885119305782
+      Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_27: 6938429960745749518
+      Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_28: 4421583443055031651
+      Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_29: -4880587625254573391
+      Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_3: 2438958927162901048
+      Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_30: 9084049936393052992
+      Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_31: 130930930355529519
+      Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_32: -8730764574655926375
+      Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_33: 4104686377704911505
+      Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_34: -6057704363765375416
+      Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_35: 2749609859454259848
+      Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_36: 3651900549345335632
+      Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_37: 1320823303530489941
+      Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_38: -7541606782971608958
+      Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_39: 4392822464238905935
+      Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_4: -1056159321461927315
+      Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_40: 5446190928576077976
+      Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_41: 2052572757750141573
+      Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_42: -8390457698984466412
+      Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_43: 7458907427997123398
+      Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_44: 495681523678469152
+      Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_45: -5681457571386118917
+      Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_46: 4391371782780164513
+      Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_47: 3980664333923314135
+      Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_48: 345070260733005663
+      Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_49: -1148706897380981737
+      Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_5: -7196518697013722638
+      Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_50: -6959309489925487001
+      Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_51: -6150433516917887200
+      Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_52: -3043268319952588957
+      Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_53: -7414551325645283751
+      Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_54: 3462169119093209439
+      Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_55: 3470002978285960551
+      Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_56: -5006581417082129016
+      Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_57: -3563873214536119357
+      Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_58: 4205818614177822671
+      Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_59: 6424640701292876960
+      Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_6: 3083820470231616324
+      Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_60: -657857470354658907
+      Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_61: -5553885540526577741
+      Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_62: -2104106590994194380
+      Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_63: -8811669532212810702
+      Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_64: -9193488485144211104
+      Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_65: 2278894963847696558
+      Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_66: -5431897167989897671
+      Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_67: -2670936637722541684
+      Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_68: 4562986552991340754
+      Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_69: -3992005530338883779
+      Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_7: -3266824263403629069
+      Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_70: 2991968104113211784
+      Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_71: -3880195815907890922
+      Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_72: -7272096697442866645
+      Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_73: 254472043036579720
+      Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_74: 8103656161676527229
+      Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_75: -856866441859091038
+      Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_76: 1155372461151424933
+      Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_77: 4142185667975945501
+      Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_78: -1012000927367484137
+      Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_79: 9129144664020136842
+      Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_8: 1262521132765886040
+      Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_80: 7037323150358230851
+      Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_81: -4321134105027226398
+      Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_82: -6809319790457692573
+      Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_83: 520650854001314161
+      Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_84: 4166318689708956337
+      Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_85: -6490694710971484072
+      Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_86: -2607130325810785508
+      Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_87: -3536330396655363782
+      Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_88: 74543782304446228
+      Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_89: -8442610015476519652
+      Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_9: -8509436772720986988
+      Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_90: -7942115351253746208
+      Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_91: -7612438727713049258
+      Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_92: 7920665407002769799
+      Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_93: -4156640774216686315
+      Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_94: -6163893728325318455
+      Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_95: -7766453225111982653
+      Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_96: -6738417770371567018
+      Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_97: -8930109368580883816
+      Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_98: -1310605354322918035
+      Game Boy Advance - Mario & Luigi_ Superstar Saga - Enemies - Goomba_99: -5105509338258051311
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

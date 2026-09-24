@@ -1,0 +1,4851 @@
+fileFormatVersion: 2
+guid: 21a47feaee434d440abc9ea59ff0c756
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -568698853138729858
+    second: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_0
+  - first:
+      213: 7438670241462550438
+    second: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_1
+  - first:
+      213: 5698883644244476736
+    second: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_2
+  - first:
+      213: -7411464685260921998
+    second: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_3
+  - first:
+      213: -37738053429347713
+    second: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_4
+  - first:
+      213: -8790295813220119906
+    second: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_5
+  - first:
+      213: -5495265179437940421
+    second: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_6
+  - first:
+      213: 1628357756491122277
+    second: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_7
+  - first:
+      213: 5009824031057731122
+    second: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_8
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_0
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 400
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e747e7af7639b18f0800000000000000
+      internalID: -568698853138729858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_1
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 384
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aff4af3c277b3760800000000000000
+      internalID: 7438670241462550438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 043c97ffa70861f40800000000000000
+      internalID: 5698883644244476736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_3
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 273aba9e220352990800000000000000
+      internalID: -7411464685260921998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7a34dab07de97ff0800000000000000
+      internalID: -37738053429347713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_5
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9a4966e788920680800000000000000
+      internalID: -8790295813220119906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_6
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3147093f65ecb3b0800000000000000
+      internalID: -5495265179437940421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_7
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 566c7ea80c6199610800000000000000
+      internalID: 1628357756491122277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_8
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23e596eb968768540800000000000000
+      internalID: 5009824031057731122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_9
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7881363d473d054695c30e661b6d79a
+      internalID: -2042319415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_10
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 352
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ae89167fae87a4cb7ad6dce60bc662
+      internalID: 702688432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8daa3d89022ff5540b0ad6700f4d4425
+      internalID: 1844396888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_12
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b23c1a0b0b21c4f8937826f2d86912
+      internalID: 924505068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31e2198dba79bf54883bd791dfba141e
+      internalID: -680182871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_14
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c7b3cfdaf21b8747bcd6f463183b7a7
+      internalID: 1287337194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_15
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fab42e19835b4e4f9311f2628d878eb
+      internalID: 365716656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_16
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a70ac8983ffcbf14abd2e32793d46c4c
+      internalID: -654829006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_17
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d867fe641362980418c7984008a46953
+      internalID: -131929115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_18
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd5886b7b78496544bf758a70dc99e80
+      internalID: -1305418020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_19
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 546e477fd2ba68e48a516ee38969fdd9
+      internalID: -1718316516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_20
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86441144317a1b64694d897e2c87c4a3
+      internalID: -1960393801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_21
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd21e872ff4e8fa42bb6b681461bddb7
+      internalID: 1014941221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_22
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d2e2f429bc21ab4dbf6d5cd903aa7cc
+      internalID: 1175747513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_23
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c8049740a18db4291c51c656b2ae0e
+      internalID: -864666873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_24
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1547662a8a1dec04da7ca9a6222539ef
+      internalID: -2018942770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_25
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a9ed1323c6b6f047bb92e4ccde8a834
+      internalID: -410923216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_26
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62c8ca81158e99e438092cb27e6d4a6e
+      internalID: 1270546455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_27
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a715eacc086cdfb47adf61662c080ebd
+      internalID: -2114984565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf395ad813434ac48890ba76045f7605
+      internalID: 597061990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_29
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1887b9000f509524d8b980c4251143e0
+      internalID: -666975338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_30
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67f0ae9a3f6f58d4c872b7391a7de20c
+      internalID: 1791522880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_31
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72b47b7570299ab4598c3020a1643830
+      internalID: 1107689375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_32
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 270393094ca93f3449a1c06ff8ef8e92
+      internalID: 1105875765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_33
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ffe329f52183d24bb6f36795f0fa8d6
+      internalID: 182495905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_34
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: affdb7c08f6bbdd42b3fe5673165ea0e
+      internalID: 270503075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_35
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d61fc4b5e6cda0c42b9e8c403924aa95
+      internalID: 1270343526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_36
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a32200c6fc0b3fb45bde2caca8202b02
+      internalID: -916885834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_37
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9abd5e73fb4c68c4db8a3353af8be482
+      internalID: 1791026409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_38
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7875e3ac730a21c4cba487b39c0edb2a
+      internalID: 1555811849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_39
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 352b056b90749b545acf5772a29a6519
+      internalID: 154628749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_40
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc3c158c82035a7438b3213614adc4eb
+      internalID: 1775300377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_41
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a135fa883a8208745806ac70e8643491
+      internalID: 1107816534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_42
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e17eeb8779f42441b63cb35857b9afd
+      internalID: 1981055484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_43
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 103d209ad3bf43041848dbe80d8c5995
+      internalID: 50810605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_44
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b53675241b58a3949bda961c7334b4ef
+      internalID: -1945336812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_45
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de2c36ca104fac4f8ebbd1f79bb698f
+      internalID: 1290350910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_46
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a2cf0b10a9200748aeadd4e72a6a45a
+      internalID: 562087906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_47
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b41c0d730ef705847a657b40acd5f05c
+      internalID: -494834882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_48
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 304
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5844addaa75cedd49b9b983400121869
+      internalID: -1741465842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_49
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ca5ae2e5e99f2a4d9ea22e88dc6a7d5
+      internalID: -1434471961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_50
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 076fa28d4ca28764fa5ef166490b63b5
+      internalID: 1796728283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_51
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e534760c2547a594b850d4bb668f691a
+      internalID: 1244345125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_52
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6c3973dd909b944ba640c48740704ac
+      internalID: -89129527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_53
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7abf71841b07dc47b217ab45a5b9aef
+      internalID: 1621755933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_54
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9107d1ad9647654db58cb8e79e96279
+      internalID: -1385731284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_55
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 233697e41eb633946a8f7df6b908cd52
+      internalID: 1792840110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_56
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f09ffc3fd4b5374d83b4157ffbc33e6
+      internalID: -553692909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_57
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff428173f73b71140a2385765cf0a560
+      internalID: 1762354889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_58
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2035bb70fb79c44bbe8ace612f06a86
+      internalID: -1395159440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_59
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb10b9e47a333ef489e2f452a1f84b8d
+      internalID: 591793291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_60
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1672b5a27426aac48a34ed8a3cc7b463
+      internalID: 220268993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_61
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c6b8f269e7f5d943ba31bda3129a9f0
+      internalID: -1110734848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_62
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf432408b1bcc746b53b5ff792dd90d
+      internalID: 758671944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_63
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb54e4107adf9d498824f29c1e7eb14
+      internalID: -903479802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_64
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a8780a7e48e0c148a2946044431072d
+      internalID: 1789621135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb2e05b6808a1e48b9ec05675a096f0
+      internalID: 1938297725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_66
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c520ae46854e2b44cb7f5180b20eece3
+      internalID: -934601773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_67
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd84f2546f4acc4db1ec12760bb8e28
+      internalID: 1170392338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_68
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5970696285cc31e4fb45a74af20923a7
+      internalID: -1177567955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_69
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9edc2dc0fc24424ea8959e2d82dbac2
+      internalID: 1222041629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_70
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce18b6be727e184bbca4969c423ae21
+      internalID: 1459767594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_71
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ca96c66b6095a4bb0c74978826a54a
+      internalID: 14180475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_72
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f4dad9b083d23c499046c668277b329
+      internalID: 989643009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_73
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a52683c2adb2cf4f954798fe4cf2688
+      internalID: 769209866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_74
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b203719971eda5b4db9b3d24838e4542
+      internalID: -998249703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_75
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffdfde85ebbfce0429fac3312fa8a311
+      internalID: 1895938893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_76
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d18f6b322336484b8c580413df2a8b3
+      internalID: -256143773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_77
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd4d4f7b9c923cb4b9fd95fa8b250c06
+      internalID: 1155876665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_78
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b2681849b12394e87a931ebe806f64
+      internalID: 1418325775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_79
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca6f69afafea50146be6cdb2b572e004
+      internalID: 1685249411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_80
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aa91db68c5e025448db510a9f013c4b
+      internalID: 1334219803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_81
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 272
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d845b2873024bd489a363c696bc751e
+      internalID: 876256209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_82
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05b00fe23a865fd4f9fafa94db83b03e
+      internalID: -683893803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_83
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da987126dc0ae648ba2f3d5d1494767
+      internalID: -1148707421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_84
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 419b0015e0b64254db65a94a58512815
+      internalID: 932864054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_85
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77aac946467990b44a9b7e7fbbd82a4d
+      internalID: 1408436576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_86
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2821b480dd7331941b55c7c8045ac32c
+      internalID: -893241374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_87
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5849ad7a16c42c5439ba0e500dc28a7c
+      internalID: 54761415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_88
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc87ae5bef2ad846b3ec14817a729ea
+      internalID: -112299848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_89
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e35883dff06af41b1016f2b8a1b128
+      internalID: -923763058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_90
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce2d06374c6b8442a5c04a90833dc3e
+      internalID: -2117720248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_91
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51e7cdcb8f0c8ef40a942a6f5ee5cd5c
+      internalID: -750648172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_92
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dbfd75cc01b7c24fa546eccfe6265e2
+      internalID: -821093112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_93
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0498cc6b3899ded47a255da7b4ae6601
+      internalID: 1320211595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_94
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e53c7808ab88937489777dca4c5c5630
+      internalID: 606397952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_95
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bab0f350d2241e47858455b252c8a9a
+      internalID: 383741988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_96
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c27693303aa33064a81dc9521b5e80c6
+      internalID: 2027319668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_97
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e6f4109c4832084c9afac624233bfc8
+      internalID: -1547170797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_98
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53d9026b875f0d64cb7b1d1a73abaafe
+      internalID: -1401237950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70b35cb957bb0134aa819befba63cf8c
+      internalID: 262780391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_100
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ed343753bd3d774cbfa62e3bec7b89e
+      internalID: -647973067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_101
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d166206cfbd8d049887e7130947041b
+      internalID: 1330130256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_102
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dafe346d5cd3096419e2f95a6d9af36e
+      internalID: -47953281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_103
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad9da9f1bbf1d624591db5587e996072
+      internalID: -1249075097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_104
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05cbf65d5daa57645ac5521d735b7be0
+      internalID: -2035599389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_105
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98332032375da6844adf4326aef9c127
+      internalID: 1531087624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_106
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee08af7d6de367408ec666a99e3b715
+      internalID: -761020940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_107
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 547885807d9d8bb44818ae229ddb2893
+      internalID: -1324555445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_108
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d2a6055219cb744862777490277bd7
+      internalID: -16321386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_109
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec82079daea7d1e4bb21b04bf4c7e6a4
+      internalID: -850902364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_110
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ec8cb79551ec14ab4955ff888c9a3f
+      internalID: -2110854371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_111
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8cba9598439c894fb3953b4bb4366bd
+      internalID: -387114690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_112
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 700bb40572192014bbf18cd2c301439f
+      internalID: -1432810825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_113
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89d9c5fac37513d48bb90a7f1b65fc44
+      internalID: -1541833683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_114
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd923aa379923b4d8e084e10906f625
+      internalID: 1849975632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_115
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aa27d125a4f8a54d8e0978d55feee5d
+      internalID: 434731535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_116
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ff96a7d1ce474046a19cd2af33e8a72
+      internalID: 2068170232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_117
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9db2526bed7a5540bd915cb29227ecd
+      internalID: 1380341239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_118
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5170b86a7227128479b7a7b187afe798
+      internalID: -1122463635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_119
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e361d4a1388002e45865c558997f6e65
+      internalID: 1486699917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_120
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a06cf96c73968b94f98612a84105585d
+      internalID: -1411278014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_121
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51322c864867c1043a447a3303a0e265
+      internalID: -1667516230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_122
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a750e599a47d3814db7e3aa0d1f0b32f
+      internalID: -1549793028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_123
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b18f009fecab541bff6aefbdf851b7
+      internalID: -1740628756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_124
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5748000cec75a245a4627c27cf6e01c
+      internalID: 1871113628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_125
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8baf99a0bd701c4b86fb2a738242e05
+      internalID: 1335711919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_126
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dc386d1c0a13c5419902958111e8322
+      internalID: -1738511283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_127
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4080f2ee46fdac24594596ffe842ca14
+      internalID: 1878209487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd6e802e95cab0d4aa24f3e29568c8b6
+      internalID: -873569338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_129
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 401c413a41fb6754a95259c79dbcf601
+      internalID: 1507133995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_130
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6377ff505bcac74dbe74115d762c218
+      internalID: -1145568534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_131
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba46b3a901352404eae4f8ee80e0a40e
+      internalID: 195690481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_132
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e21f7feca35c97489314e0403de4381
+      internalID: -723504784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_133
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d6d019058d00d44f9491a2c91885f3e
+      internalID: -1459011687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_134
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 078556a8aeac7924fa9f7a22633bf33f
+      internalID: 1875081903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_135
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebecf68ee2ea36e45b529d9567990d97
+      internalID: -1590186929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_136
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd8c4c7dda88f143bdd76c8fa39ab27
+      internalID: -790273473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_137
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 601691c373d29c344bd3172010891d20
+      internalID: 602262876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_138
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a03c1f8a42cb9141a22c266bf5979c4
+      internalID: 1474898985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_139
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 140c522d7cbca0749a08339dde30f730
+      internalID: -1470705854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_140
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a18a7f031fcdf204298e3dcf405f9e49
+      internalID: -1546180907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_141
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e849cd3543a74a4fb7b35b8586b1f2e
+      internalID: -1008669675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_142
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bff5ad45e225d54c9ac3b5da98f65b4
+      internalID: 1687772713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_143
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 762ae4a3f1cef4649986210694efe6cf
+      internalID: -743397728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_144
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 043bc7496a1cd07499a21e1f54d835ed
+      internalID: 399410958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_145
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0542bae5b9f420f4b920f05660f28eef
+      internalID: 4573186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_146
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 267b7a30470592348bdbb1b2f15a674f
+      internalID: -1610490327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_147
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e16956b4799d946aa62f207961287e
+      internalID: 862312041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_148
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32467b384fb966a468b48b81d9c62e50
+      internalID: -1695099968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_149
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe02e71326dcc724996df392c2ecb5d2
+      internalID: -102195480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_150
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01df0fe4a9ff1d44f83894b0c3bfb83c
+      internalID: -363799211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_151
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0727d8b2dfc7de444add7f9b999ebd10
+      internalID: 1256633712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_152
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee98ef15ab859c14888fa914020b330e
+      internalID: 1282230404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_153
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a093b0006ca854b9847e0821ffa075
+      internalID: 851483342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_154
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a105a57febce36a4083bfc60f69e6e9e
+      internalID: 2052109091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_155
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f50c9f5c6f3364baf333ed514b3545
+      internalID: -519663712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_156
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c7104ebdcef973448bf88d29d196f05
+      internalID: -1078041456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_157
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02d60d939a5be0a4d891a7e8a1a8bf78
+      internalID: -1046878974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_158
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 040246883cf4251429756a788304fad0
+      internalID: -1324480375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_159
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 579f7398851ced24ca1d625add400ed5
+      internalID: 1081892792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_160
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50fc3bf1c25d91b49bb09151c22b892e
+      internalID: -881406628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_161
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61618a71d7e733e4cad24a8d56e3e348
+      internalID: -1739484470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_162
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bbf5d8b7898bf749ab9f7d43ff44ad3
+      internalID: 960558529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_163
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6be1ed1cea2731343a3c7f0f4193d8fe
+      internalID: 185992131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_164
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8973fd367a0f74549b443f98b0a9005b
+      internalID: -307190871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_165
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dca7cae3a527ded4e9e17bcc9c7bf689
+      internalID: -1153340868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_166
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 338692f7ba9cbf84a980b81c012bdf81
+      internalID: -1720664818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_167
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ccd903ecd6e2c41aef519abd510566
+      internalID: -1800757214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_168
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7685b804c9c430243846e3004cfb9446
+      internalID: 1875151964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_169
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4938a957427747445a924b7418362a9a
+      internalID: -1876641856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_170
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96080fa4d763eb540931a07fa4e45c44
+      internalID: 45632114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_171
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d979e1dde2c4bf94f88be52e43a6c5b5
+      internalID: -1648596704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_172
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1577238c8ed19a94899941e79b64a834
+      internalID: 1183611628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_173
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b94afb8a59de309478a3de572c10a278
+      internalID: 1025512515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_174
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24778d06898bfa242ae2eb770ada2615
+      internalID: 9998520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_175
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a23951e8deaacd448015dae35a13dc0
+      internalID: 899290401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_176
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7917c40b38e64e48bc498f4210a434f
+      internalID: 1550261883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_177
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd97369297fb1e46a1432af96a9c353
+      internalID: 1081578923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_178
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b8ebe763eb9144f852af0681e14bfc
+      internalID: -165045577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_179
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a54a0afcec291f41a988a1e4fac9472
+      internalID: 289062024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_180
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 386f44ea415811846b0ae666e821d1aa
+      internalID: 46537251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_181
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd18b4ca254e56d459ebaa41f8a38f04
+      internalID: 636451267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_182
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3666ba6041c04534492d2d178b0795f1
+      internalID: -1176106689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_183
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b72b85b48cca92d45931772bb902daa1
+      internalID: -1010556643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_184
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bff53274f548544280eaee8d725a5be
+      internalID: -789147543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_185
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e51c707d6aec911479185ede84008b12
+      internalID: -1046423101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_186
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff568407691a9eb47a806f0151d8187a
+      internalID: 2101186267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_187
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeced3cc54eb2fa4984738b46cc9d39a
+      internalID: -615810548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_188
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d5920d29ed397d4ebdd1dcd7ff4598b
+      internalID: 1649913635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_189
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac3108412a0a36c4f95cf5586d7071b2
+      internalID: 1471784613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_190
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cbbb7c0944dd56418fcbc15c6168d08
+      internalID: -1682148089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_191
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f169fc6a69ed0478f1f34aa82654a3
+      internalID: 256928912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_192
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d22e9249d507046be3aa015b250d0b
+      internalID: -257085888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_193
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada4991e822d3e440afffe34084b73bc
+      internalID: -1808170070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_194
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c74055e9b23838440972e6c6ad910f6b
+      internalID: 167473781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_195
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebccadb918ba18b4ba1511bcc800669f
+      internalID: -1686257124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_196
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cc0e44ebac257543acb3c5fed0642b1
+      internalID: -1917777704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_197
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79cf90f0e1089784281a562e6dc09271
+      internalID: 300588609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_198
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c4d4cf0c1ef3734e9721fb643ba0c16
+      internalID: -2053462247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_199
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca1be66b2f689c540ae867abf2f68814
+      internalID: -1982563471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_200
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 897e0fe4d6d221a479fff566f31e80e4
+      internalID: -1030340559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_201
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ed11b7357136f44b0d9f82f64d914b
+      internalID: -1527316525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_202
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb1d07ec7a0d8cc42a5bb7d83f7154a2
+      internalID: 212244698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_203
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e465630a44574e048a76270a7aa462de
+      internalID: 1593888157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: cfcdcb1b97c2a37448dda64c93b6f9ff
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":16.0,"y":16.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_0: -568698853138729858
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_1: 7438670241462550438
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_10: 702688432
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_100: -647973067
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_101: 1330130256
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_102: -47953281
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_103: -1249075097
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_104: -2035599389
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_105: 1531087624
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_106: -761020940
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_107: -1324555445
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_108: -16321386
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_109: -850902364
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_11: 1844396888
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_110: -2110854371
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_111: -387114690
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_112: -1432810825
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_113: -1541833683
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_114: 1849975632
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_115: 434731535
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_116: 2068170232
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_117: 1380341239
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_118: -1122463635
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_119: 1486699917
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_12: 924505068
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_120: -1411278014
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_121: -1667516230
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_122: -1549793028
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_123: -1740628756
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_124: 1871113628
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_125: 1335711919
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_126: -1738511283
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_127: 1878209487
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_128: -873569338
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_129: 1507133995
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_13: -680182871
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_130: -1145568534
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_131: 195690481
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_132: -723504784
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_133: -1459011687
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_134: 1875081903
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_135: -1590186929
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_136: -790273473
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_137: 602262876
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_138: 1474898985
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_139: -1470705854
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_14: 1287337194
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_140: -1546180907
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_141: -1008669675
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_142: 1687772713
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_143: -743397728
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_144: 399410958
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_145: 4573186
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_146: -1610490327
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_147: 862312041
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_148: -1695099968
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_149: -102195480
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_15: 365716656
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_150: -363799211
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_151: 1256633712
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_152: 1282230404
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_153: 851483342
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_154: 2052109091
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_155: -519663712
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_156: -1078041456
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_157: -1046878974
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_158: -1324480375
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_159: 1081892792
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_16: -654829006
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_160: -881406628
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_161: -1739484470
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_162: 960558529
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_163: 185992131
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_164: -307190871
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_165: -1153340868
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_166: -1720664818
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_167: -1800757214
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_168: 1875151964
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_169: -1876641856
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_17: -131929115
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_170: 45632114
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_171: -1648596704
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_172: 1183611628
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_173: 1025512515
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_174: 9998520
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_175: 899290401
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_176: 1550261883
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_177: 1081578923
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_178: -165045577
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_179: 289062024
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_18: -1305418020
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_180: 46537251
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_181: 636451267
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_182: -1176106689
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_183: -1010556643
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_184: -789147543
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_185: -1046423101
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_186: 2101186267
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_187: -615810548
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_188: 1649913635
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_189: 1471784613
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_19: -1718316516
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_190: -1682148089
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_191: 256928912
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_192: -257085888
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_193: -1808170070
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_194: 167473781
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_195: -1686257124
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_196: -1917777704
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_197: 300588609
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_198: -2053462247
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_199: -1982563471
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_2: 5698883644244476736
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_20: -1960393801
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_200: -1030340559
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_201: -1527316525
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_202: 212244698
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_203: 1593888157
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_21: 1014941221
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_22: 1175747513
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_23: -864666873
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_24: -2018942770
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_25: -410923216
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_26: 1270546455
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_27: -2114984565
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_28: 597061990
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_29: -666975338
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_3: -7411464685260921998
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_30: 1791522880
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_31: 1107689375
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_32: 1105875765
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_33: 182495905
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_34: 270503075
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_35: 1270343526
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_36: -916885834
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_37: 1791026409
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_38: 1555811849
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_39: 154628749
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_4: -37738053429347713
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_40: 1775300377
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_41: 1107816534
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_42: 1981055484
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_43: 50810605
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_44: -1945336812
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_45: 1290350910
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_46: 562087906
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_47: -494834882
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_48: -1741465842
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_49: -1434471961
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_5: -8790295813220119906
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_50: 1796728283
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_51: 1244345125
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_52: -89129527
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_53: 1621755933
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_54: -1385731284
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_55: 1792840110
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_56: -553692909
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_57: 1762354889
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_58: -1395159440
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_59: 591793291
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_6: -5495265179437940421
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_60: 220268993
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_61: -1110734848
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_62: 758671944
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_63: -903479802
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_64: 1789621135
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_65: 1938297725
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_66: -934601773
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_67: 1170392338
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_68: -1177567955
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_69: 1222041629
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_7: 1628357756491122277
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_70: 1459767594
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_71: 14180475
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_72: 989643009
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_73: 769209866
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_74: -998249703
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_75: 1895938893
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_76: -256143773
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_77: 1155876665
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_78: 1418325775
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_79: 1685249411
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_8: 5009824031057731122
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_80: 1334219803
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_81: 876256209
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_82: -683893803
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_83: -1148707421
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_84: 932864054
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_85: 1408436576
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_86: -893241374
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_87: 54761415
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_88: -112299848
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_89: -923763058
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_9: -2042319415
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_90: -2117720248
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_91: -750648172
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_92: -821093112
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_93: 1320211595
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_94: 606397952
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_95: 383741988
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_96: 2027319668
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_97: -1547170797
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_98: -1401237950
+      Game Boy Advance - Zook Man ZX4 (Bootleg) - Tilesets - Intro Stage_99: 262780391
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

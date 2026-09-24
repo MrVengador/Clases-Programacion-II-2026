@@ -1,0 +1,5707 @@
+fileFormatVersion: 2
+guid: 03ec09fb2bc592c48b50e0eaeadaccea
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5584790811706853183
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_0
+  - first:
+      213: 7684766631497369899
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_1
+  - first:
+      213: 6070680427308805816
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_2
+  - first:
+      213: 3432215466004868863
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_3
+  - first:
+      213: -2385859971728177368
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_4
+  - first:
+      213: -4743150321555797280
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_5
+  - first:
+      213: 4052730074889339060
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_6
+  - first:
+      213: 8501521745117729757
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_7
+  - first:
+      213: -3132434006832300295
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_8
+  - first:
+      213: 5560450277385760509
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_9
+  - first:
+      213: -3113847569814224527
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_10
+  - first:
+      213: -5743437475710469358
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_11
+  - first:
+      213: -2199232522259975978
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_12
+  - first:
+      213: 3838353320030959791
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_13
+  - first:
+      213: 305243728236521401
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_14
+  - first:
+      213: -7182941225567548048
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_15
+  - first:
+      213: 4716211378650757972
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_16
+  - first:
+      213: -5785075454734233317
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_17
+  - first:
+      213: -4309228801757404189
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_18
+  - first:
+      213: -3145524252270717514
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_19
+  - first:
+      213: 7233357861097102734
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_20
+  - first:
+      213: -196106250760854553
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_21
+  - first:
+      213: 2760489517158989132
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_22
+  - first:
+      213: 3093429673716153566
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_23
+  - first:
+      213: -773575967659887372
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_24
+  - first:
+      213: 1468923751009076278
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_25
+  - first:
+      213: 1758484827451625917
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_26
+  - first:
+      213: 4181085175366982244
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_27
+  - first:
+      213: 153441397134825004
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_28
+  - first:
+      213: -9201845222270624023
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_29
+  - first:
+      213: 2060311608142444103
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_30
+  - first:
+      213: -7872734976273365041
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_31
+  - first:
+      213: -2215605583052417780
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_32
+  - first:
+      213: -6446386036325957673
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_33
+  - first:
+      213: -4087709448247991028
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_34
+  - first:
+      213: 1507089058764104540
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_35
+  - first:
+      213: 5992054258828879849
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_36
+  - first:
+      213: 1670959282727663279
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_37
+  - first:
+      213: 3468582580024143910
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_38
+  - first:
+      213: -823666905894804600
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_39
+  - first:
+      213: 2483622209046216167
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_40
+  - first:
+      213: -3868377954006959510
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_41
+  - first:
+      213: 5092081610127985478
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_42
+  - first:
+      213: 29986692947370580
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_43
+  - first:
+      213: 129761083503737144
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_44
+  - first:
+      213: -3133658469701828870
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_45
+  - first:
+      213: -3861561714031664267
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_46
+  - first:
+      213: -9081999092157934959
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_47
+  - first:
+      213: 7457903012175909999
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_48
+  - first:
+      213: -1485242116002402074
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_49
+  - first:
+      213: -990045160004476691
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_50
+  - first:
+      213: 5924153274443444464
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_51
+  - first:
+      213: -1621739754454348860
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_52
+  - first:
+      213: -8733583653662741451
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_53
+  - first:
+      213: -4697514157466539392
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_54
+  - first:
+      213: -2736056331230273737
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_55
+  - first:
+      213: -7154243953363360664
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_56
+  - first:
+      213: -8535085618078131690
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_57
+  - first:
+      213: -2540951997792312048
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_58
+  - first:
+      213: 7161243260118296126
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_59
+  - first:
+      213: 7073989700685670600
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_60
+  - first:
+      213: -276460389565307261
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_61
+  - first:
+      213: 4649090518472750783
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_62
+  - first:
+      213: -7627844459086758274
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_63
+  - first:
+      213: -7633744390596702755
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_64
+  - first:
+      213: -7046351924672878034
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_65
+  - first:
+      213: -6181307046966035110
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_66
+  - first:
+      213: 4112637557056743131
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_67
+  - first:
+      213: -7411987217723750334
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_68
+  - first:
+      213: -2132541369633983167
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_69
+  - first:
+      213: 6005288759146622819
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_70
+  - first:
+      213: -5773844311071123329
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_71
+  - first:
+      213: -1444310041873585804
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_72
+  - first:
+      213: 2738968223990845969
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_73
+  - first:
+      213: 6743579856888038298
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_74
+  - first:
+      213: -4479421396478927520
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_75
+  - first:
+      213: 2618593386187253950
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_76
+  - first:
+      213: 1562263740649850286
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_77
+  - first:
+      213: 1954472255911021780
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_78
+  - first:
+      213: -6017876252145637778
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_79
+  - first:
+      213: 2398126821626261070
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_80
+  - first:
+      213: -4974882342600360833
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_81
+  - first:
+      213: -1799286676616620927
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_82
+  - first:
+      213: -4679979092021440887
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_83
+  - first:
+      213: 7520810771942170792
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_84
+  - first:
+      213: -171439146375862658
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_85
+  - first:
+      213: 4516378473994028599
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_86
+  - first:
+      213: 1163937794959578336
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_87
+  - first:
+      213: -4965187627556073171
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_88
+  - first:
+      213: -1294290337044730158
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_89
+  - first:
+      213: -6138457889316486028
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_90
+  - first:
+      213: -8134916763180111154
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_91
+  - first:
+      213: -302292387171432017
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_92
+  - first:
+      213: -558627521985444206
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_93
+  - first:
+      213: 987518945610029803
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_94
+  - first:
+      213: 9018334362488883617
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_95
+  - first:
+      213: -3998408469877825917
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_96
+  - first:
+      213: -2543343123236645052
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_97
+  - first:
+      213: 5805493055521673584
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_98
+  - first:
+      213: 8126503413466525776
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_99
+  - first:
+      213: 5453635837703759194
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_100
+  - first:
+      213: -7677363231772283346
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_101
+  - first:
+      213: -4827798892990832689
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_102
+  - first:
+      213: -7158869957353850888
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_103
+  - first:
+      213: 8310837657617500147
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_104
+  - first:
+      213: 2478388842942798087
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_105
+  - first:
+      213: 7168300520481593039
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_106
+  - first:
+      213: -5959114338130235956
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_107
+  - first:
+      213: -3316903116796806052
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_108
+  - first:
+      213: 5151837457239627611
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_109
+  - first:
+      213: 3530253855627988848
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_110
+  - first:
+      213: 7823845767882350642
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_111
+  - first:
+      213: 9112256669514285331
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_112
+  - first:
+      213: 6285194996130156149
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_113
+  - first:
+      213: 1248789256565702206
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_114
+  - first:
+      213: -4808210795868591825
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_115
+  - first:
+      213: 790701633258193679
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_116
+  - first:
+      213: -8703748972665003871
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_117
+  - first:
+      213: 3347686608601714178
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_118
+  - first:
+      213: -2902110406162686737
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_119
+  - first:
+      213: 7760759284865578133
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_120
+  - first:
+      213: 6650992671933791964
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_121
+  - first:
+      213: -5658966050685663626
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_122
+  - first:
+      213: -1988400353159770515
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_123
+  - first:
+      213: 6559605455259398642
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_124
+  - first:
+      213: -6074133506557784706
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_125
+  - first:
+      213: 1797524855981253590
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_126
+  - first:
+      213: -7213075528345593730
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_127
+  - first:
+      213: -7734891990462998824
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_128
+  - first:
+      213: 8920973901653393540
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_129
+  - first:
+      213: 7430786805350608947
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_130
+  - first:
+      213: -4000027942881189676
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_131
+  - first:
+      213: -872978921846246942
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_132
+  - first:
+      213: 8637953761236209473
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_133
+  - first:
+      213: -1322037260927050601
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_134
+  - first:
+      213: -7903158075782529497
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_135
+  - first:
+      213: 3333540476122386002
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_136
+  - first:
+      213: 910217334796921144
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_137
+  - first:
+      213: 8670366953885691539
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_138
+  - first:
+      213: -1099198305902625187
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_139
+  - first:
+      213: 8714322346475741320
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_140
+  - first:
+      213: 4283387535029220895
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_141
+  - first:
+      213: -6615880621483269073
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_142
+  - first:
+      213: -9116992501154096419
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_143
+  - first:
+      213: 5744845721018539153
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_144
+  - first:
+      213: -6180074295096874626
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_145
+  - first:
+      213: 7438601146321738242
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_146
+  - first:
+      213: -3843049330493329347
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_147
+  - first:
+      213: -5917109548529961800
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_148
+  - first:
+      213: -2966799172909248176
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_149
+  - first:
+      213: -2140840421094638227
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_150
+  - first:
+      213: 1984402451705072723
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_151
+  - first:
+      213: -6123366737673195697
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_152
+  - first:
+      213: 9049229562634183001
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_153
+  - first:
+      213: -439137416855211355
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_154
+  - first:
+      213: 6637093196710736846
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_155
+  - first:
+      213: 4453402624980587623
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_156
+  - first:
+      213: 8130657668807997917
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_157
+  - first:
+      213: -6151574523240715967
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_158
+  - first:
+      213: -3500887325778952204
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_159
+  - first:
+      213: 9052060749676732826
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_160
+  - first:
+      213: 911692195900702121
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_161
+  - first:
+      213: -7225885080902008543
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_162
+  - first:
+      213: -1336162113766293605
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_163
+  - first:
+      213: -8465081089461800809
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_164
+  - first:
+      213: -293145165773560706
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_165
+  - first:
+      213: -4553625093239630796
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_166
+  - first:
+      213: 1615078424326470816
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_167
+  - first:
+      213: 1211403097073420132
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_168
+  - first:
+      213: 4809837116054968430
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_169
+  - first:
+      213: -7955925599510158184
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_170
+  - first:
+      213: 4746760590818200677
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_171
+  - first:
+      213: -5302016197913351218
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_172
+  - first:
+      213: 130662937276025763
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_173
+  - first:
+      213: 1226969893782417608
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_174
+  - first:
+      213: 8607849995614602831
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_175
+  - first:
+      213: 8244627205225363501
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_176
+  - first:
+      213: -4059822310275183375
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_177
+  - first:
+      213: 8479641975883285577
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_178
+  - first:
+      213: 9052895311709290675
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_179
+  - first:
+      213: -7113106504957333048
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_180
+  - first:
+      213: -1739074927322428622
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_181
+  - first:
+      213: -3692778562801548117
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_182
+  - first:
+      213: 7155325180583916821
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_183
+  - first:
+      213: 4044297382641162686
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_184
+  - first:
+      213: -2754312073914272148
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_185
+  - first:
+      213: -3618373458630544523
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_186
+  - first:
+      213: -2728596228164896307
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_187
+  - first:
+      213: 459699680801524980
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_188
+  - first:
+      213: 7017514904305656516
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_189
+  - first:
+      213: 5080443914209289088
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_190
+  - first:
+      213: -7397032306599277015
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_191
+  - first:
+      213: 7035254379238083498
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_192
+  - first:
+      213: -4632018720394600419
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_193
+  - first:
+      213: 4284121632214357503
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_194
+  - first:
+      213: -5908215387768996966
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_195
+  - first:
+      213: -8839359528098093233
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_196
+  - first:
+      213: 6824959955418553916
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_197
+  - first:
+      213: 4644874269704489902
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_198
+  - first:
+      213: 5782523921728144270
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_199
+  - first:
+      213: 243599310263603630
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_200
+  - first:
+      213: -8582154163374677073
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_201
+  - first:
+      213: -483567069800804928
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_202
+  - first:
+      213: 206323916734437102
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_203
+  - first:
+      213: 4534400288179586217
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_204
+  - first:
+      213: 4246425898511001437
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_205
+  - first:
+      213: 661800168271088165
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_206
+  - first:
+      213: 896361700467256436
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_207
+  - first:
+      213: 6564951214023161917
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_208
+  - first:
+      213: -260493858265189127
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_209
+  - first:
+      213: -3343094071045810239
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_210
+  - first:
+      213: -1008200267766679003
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_211
+  - first:
+      213: -4241178999768924439
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_212
+  - first:
+      213: 87681396512762798
+    second: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_213
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 834
+        width: 146
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c8f853a856de72b0800000000000000
+      internalID: -5584790811706853183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 786
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b290d242986c5aa60800000000000000
+      internalID: 7684766631497369899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_2
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 786
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8be68ae4fa36f3450800000000000000
+      internalID: 6070680427308805816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_3
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 786
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffe62db18cda1af20800000000000000
+      internalID: 3432215466004868863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_4
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 786
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 827815d1ff8b3eed0800000000000000
+      internalID: -2385859971728177368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_5
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 746
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ea036fa9e1fc2eb0800000000000000
+      internalID: -4743150321555797280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_6
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 746
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b04254e7803e3830800000000000000
+      internalID: 4052730074889339060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_7
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 746
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd35004fbf87bf570800000000000000
+      internalID: 8501521745117729757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_8
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 746
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fe386cfddb5784d0800000000000000
+      internalID: -3132434006832300295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_9
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 707
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfeecc61110ba2d40800000000000000
+      internalID: 5560450277385760509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_10
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 707
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1718284122469c4d0800000000000000
+      internalID: -3113847569814224527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_11
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 707
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21b7c9ebb063b40b0800000000000000
+      internalID: -5743437475710469358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_12
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 707
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d0353c4ca1ca71e0800000000000000
+      internalID: -2199232522259975978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_13
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 680
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa8f2e21202944530800000000000000
+      internalID: 3838353320030959791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_14
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 680
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b72477bd817c3400800000000000000
+      internalID: 305243728236521401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_15
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 680
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07d898f1301115c90800000000000000
+      internalID: -7182941225567548048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_16
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 680
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45b3226e249537140800000000000000
+      internalID: 4716211378650757972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_17
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 680
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b111cb9468847bfa0800000000000000
+      internalID: -5785075454734233317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_18
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 588
+        width: 30
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e32e5f6c3b8234c0800000000000000
+      internalID: -4309228801757404189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_19
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 588
+        width: 30
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b51707bb5ad854d0800000000000000
+      internalID: -3145524252270717514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_20
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 588
+        width: 30
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8dd8f396ac026460800000000000000
+      internalID: 7233357861097102734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_21
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 588
+        width: 30
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e36a29676a474df0800000000000000
+      internalID: -196106250760854553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_22
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 588
+        width: 30
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4d7374179a3f4620800000000000000
+      internalID: 2760489517158989132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_23
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 588
+        width: 30
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edcf08706e11eea20800000000000000
+      internalID: 3093429673716153566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_24
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 588
+        width: 31
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f47ad881c4b345f0800000000000000
+      internalID: -773575967659887372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_25
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 588
+        width: 31
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 634c70d6e5aa26410800000000000000
+      internalID: 1468923751009076278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_26
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 588
+        width: 31
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db11b2b32a4676810800000000000000
+      internalID: 1758484827451625917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_27
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 588
+        width: 30
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46a966d80d2360a30800000000000000
+      internalID: 4181085175366982244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_28
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 588
+        width: 30
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c269f024322212200800000000000000
+      internalID: 153441397134825004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_29
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 588
+        width: 34
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ee1f68168a7c4080800000000000000
+      internalID: -9201845222270624023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_30
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 511
+        width: 30
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 746b1f9dd72b79c10800000000000000
+      internalID: 2060311608142444103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_31
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 511
+        width: 30
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc7ce68204d6eb290800000000000000
+      internalID: -7872734976273365041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_32
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 511
+        width: 30
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c05d9c306769041e0800000000000000
+      internalID: -2215605583052417780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_33
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 511
+        width: 30
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dfb0cbed06d986a0800000000000000
+      internalID: -6446386036325957673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_34
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 511
+        width: 30
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c05ab281ae98547c0800000000000000
+      internalID: -4087709448247991028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_35
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 511
+        width: 30
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c53238893814ae410800000000000000
+      internalID: 1507089058764104540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_36
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 511
+        width: 30
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e7ac54e99d082350800000000000000
+      internalID: 5992054258828879849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_37
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 511
+        width: 30
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa6bf115d90703710800000000000000
+      internalID: 1670959282727663279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_38
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 511
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 620727caa71e22030800000000000000
+      internalID: 3468582580024143910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_39
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 449
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88325e4205fb194f0800000000000000
+      internalID: -823666905894804600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_40
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 449
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ed78768d39977220800000000000000
+      internalID: 2483622209046216167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_41
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 449
+        width: 30
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6a76721fb2c05ac0800000000000000
+      internalID: -3868377954006959510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_42
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 449
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64b4af2de35baa640800000000000000
+      internalID: 5092081610127985478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_43
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 449
+        width: 30
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 452ed150db88a6000800000000000000
+      internalID: 29986692947370580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_44
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 449
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 839f8e794010dc100800000000000000
+      internalID: 129761083503737144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_45
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 449
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afe370289320384d0800000000000000
+      internalID: -3133658469701828870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_46
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 449
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 573e4ec941af86ac0800000000000000
+      internalID: -3861561714031664267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_47
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 449
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1929185b1f146f180800000000000000
+      internalID: -9081999092157934959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_48
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 449
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f649f02a64bcf7760800000000000000
+      internalID: 7457903012175909999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_49
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 401
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e03a362a2c536be0800000000000000
+      internalID: -1485242116002402074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_50
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 401
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de0a6562c27a242f0800000000000000
+      internalID: -990045160004476691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_51
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 374
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f03b2ef302d63250800000000000000
+      internalID: 5924153274443444464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_52
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 374
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cb8e91294c6e79e0800000000000000
+      internalID: -1621739754454348860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_53
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 374
+        width: 23
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53c264380f31cc680800000000000000
+      internalID: -8733583653662741451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_54
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 374
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08aa6d423c31fceb0800000000000000
+      internalID: -4697514157466539392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_55
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 374
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73f9f835343970ad0800000000000000
+      internalID: -2736056331230273737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_56
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 315
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8646a4b770507bc90800000000000000
+      internalID: -7154243953363360664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_57
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 315
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61a58e6e9d84d8980800000000000000
+      internalID: -8535085618078131690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_58
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 315
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 015254cde99bcbcd0800000000000000
+      internalID: -2540951997792312048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_59
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 315
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e36e28d9dc8d16360800000000000000
+      internalID: 7161243260118296126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_60
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 316
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c82426372cdb2260800000000000000
+      internalID: 7073989700685670600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_61
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 316
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3866e7d8db0d92cf0800000000000000
+      internalID: -276460389565307261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_62
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 316
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb67432d133e48040800000000000000
+      internalID: 4649090518472750783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_63
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 316
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7eb336e0e3742690800000000000000
+      internalID: -7627844459086758274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_64
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 316
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddd4a5c0ced7f0690800000000000000
+      internalID: -7633744390596702755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_65
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 316
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2aab77f144563e90800000000000000
+      internalID: -7046351924672878034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_66
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 316
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5d78f1adf5973aa0800000000000000
+      internalID: -6181307046966035110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_67
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 316
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd62c468116031930800000000000000
+      internalID: 4112637557056743131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_68
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 316
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24807d755e4532990800000000000000
+      internalID: -7411987217723750334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_69
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 316
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 145342a4ce0b762e0800000000000000
+      internalID: -2132541369633983167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_70
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 316
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36fa49e1f42175350800000000000000
+      internalID: 6005288759146622819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_71
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 316
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f781232b03f2fdfa0800000000000000
+      internalID: -5773844311071123329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_72
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 316
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47968905ba7c4fbe0800000000000000
+      internalID: -1444310041873585804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_73
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 316
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1129e0a8615c20620800000000000000
+      internalID: 2738968223990845969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_74
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 316
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a938a4c9622069d50800000000000000
+      internalID: 6743579856888038298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_75
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 316
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06dd69f09f5e5d1c0800000000000000
+      internalID: -4479421396478927520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_76
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 316
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb8e0e29fcc175420800000000000000
+      internalID: 2618593386187253950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_77
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 316
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea548ea48964ea510800000000000000
+      internalID: 1562263740649850286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_78
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 316
+        width: 30
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dccee8592eaf1b10800000000000000
+      internalID: 1954472255911021780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_79
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 316
+        width: 30
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e66a998ce653c7ca0800000000000000
+      internalID: -6017876252145637778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_80
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 242
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4eae5173abd74120800000000000000
+      internalID: 2398126821626261070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_81
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 242
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7c31f11edaa5fab0800000000000000
+      internalID: -4974882342600360833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_82
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 242
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1845c27fc46a707e0800000000000000
+      internalID: -1799286676616620927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_83
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 242
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98e8ec7bfcf5d0fb0800000000000000
+      internalID: -4679979092021440887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_84
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 242
+        width: 30
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a06b84dc894f5860800000000000000
+      internalID: 7520810771942170792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_85
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 242
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e76aba3310dee9df0800000000000000
+      internalID: -171439146375862658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_86
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 242
+        width: 30
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73682a51b466dae30800000000000000
+      internalID: 4516378473994028599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_87
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 242
+        width: 30
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e49739f143272010800000000000000
+      internalID: 1163937794959578336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_88
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 242
+        width: 30
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d211b50d82c181bb0800000000000000
+      internalID: -4965187627556073171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_89
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 242
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2de6a30cbc1c90ee0800000000000000
+      internalID: -1294290337044730158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_90
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 242
+        width: 30
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 474c8969211dfcaa0800000000000000
+      internalID: -6138457889316486028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_91
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 242
+        width: 30
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eca6745fd48fa1f80800000000000000
+      internalID: -8134916763180111154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_92
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 242
+        width: 30
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa9875cecaa0ecbf0800000000000000
+      internalID: -302292387171432017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_93
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 242
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2960d4e7a3b5f38f0800000000000000
+      internalID: -558627521985444206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_94
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 242
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beadd0abf3f54bd00800000000000000
+      internalID: 987518945610029803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_95
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 242
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a949dd425f872d70800000000000000
+      internalID: 9018334362488883617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_96
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 242
+        width: 30
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38ed40e5eacc288c0800000000000000
+      internalID: -3998408469877825917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_97
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 242
+        width: 30
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4471c8597ea34bcd0800000000000000
+      internalID: -2543343123236645052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_98
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 242
+        width: 30
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 071dd58dc21419050800000000000000
+      internalID: 5805493055521673584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_99
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 242
+        width: 30
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 050fba96cc327c070800000000000000
+      internalID: 8126503413466525776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_100
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 242
+        width: 30
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a552ca856e43fab40800000000000000
+      internalID: 5453635837703759194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_101
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 242
+        width: 30
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2e619e21d6847590800000000000000
+      internalID: -7677363231772283346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_102
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 242
+        width: 30
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcfd1405c76300db0800000000000000
+      internalID: -4827798892990832689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_103
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 242
+        width: 30
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f735bef3b596ac90800000000000000
+      internalID: -7158869957353850888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_104
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 155
+        width: 30
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f70b3021d6065370800000000000000
+      internalID: 8310837657617500147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_105
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 155
+        width: 30
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70995e68581056220800000000000000
+      internalID: 2478388842942798087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_106
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 155
+        width: 30
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc69d86185bea7360800000000000000
+      internalID: 7168300520481593039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_107
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 155
+        width: 30
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccd6fcb0519fc4da0800000000000000
+      internalID: -5959114338130235956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_108
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 155
+        width: 30
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5cb0f0603ef7f1d0800000000000000
+      internalID: -3316903116796806052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_109
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 155
+        width: 30
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b57d15b2fd00f7740800000000000000
+      internalID: 5151837457239627611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_110
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 155
+        width: 30
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07fc8a77d2bfdf030800000000000000
+      internalID: 3530253855627988848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_111
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 155
+        width: 30
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 230221cf542e39c60800000000000000
+      internalID: 7823845767882350642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_112
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 155
+        width: 30
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3114590892d357e70800000000000000
+      internalID: 9112256669514285331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_113
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 155
+        width: 30
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57e86607c8f793750800000000000000
+      internalID: 6285194996130156149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_114
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 155
+        width: 30
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3e3ce46637945110800000000000000
+      internalID: 1248789256565702206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_115
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 155
+        width: 30
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f29ed0391cdc54db0800000000000000
+      internalID: -4808210795868591825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_116
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 155
+        width: 30
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f030da532f229fa00800000000000000
+      internalID: 790701633258193679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_117
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 155
+        width: 30
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a0a12e7c62163780800000000000000
+      internalID: -8703748972665003871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_118
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 155
+        width: 30
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20e8905db3f557e20800000000000000
+      internalID: 3347686608601714178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_119
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 155
+        width: 30
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fec55bd26f1a9b7d0800000000000000
+      internalID: -2902110406162686737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_120
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 155
+        width: 30
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5943ab98371c3bb60800000000000000
+      internalID: 7760759284865578133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_121
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 155
+        width: 30
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdef65eb8921d4c50800000000000000
+      internalID: 6650992671933791964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_122
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 155
+        width: 30
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 676c2e00c505771b0800000000000000
+      internalID: -5658966050685663626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_123
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 155
+        width: 30
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6e86aee968c764e0800000000000000
+      internalID: -1988400353159770515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_124
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 155
+        width: 30
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f173734866680b50800000000000000
+      internalID: 6559605455259398642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_125
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 155
+        width: 30
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7d435702c754bba0800000000000000
+      internalID: -6074133506557784706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_126
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 155
+        width: 30
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d3a2b3355712f810800000000000000
+      internalID: 1797524855981253590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_127
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 128
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e78d5e2060206eb90800000000000000
+      internalID: -7213075528345593730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_128
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 128
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d6507447b428a490800000000000000
+      internalID: -7734891990462998824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_129
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 128
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 480c49a8f7aadcb70800000000000000
+      internalID: 8920973901653393540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_130
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 128
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 330359eba357f1760800000000000000
+      internalID: 7430786805350608947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_131
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 128
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d02eec67cb0d78c0800000000000000
+      internalID: -4000027942881189676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_132
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 128
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e173fabb4e82e3f0800000000000000
+      internalID: -872978921846246942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_133
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 128
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14fcbb41e2d20e770800000000000000
+      internalID: 8637953761236209473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_134
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 128
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79cdc9a9d1e27ade0800000000000000
+      internalID: -1322037260927050601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_135
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 128
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72ef8315a97525290800000000000000
+      internalID: -7903158075782529497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_136
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 125
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25e49a3b66d134e20800000000000000
+      internalID: 3333540476122386002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_137
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 128
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83929fce7ddb1ac00800000000000000
+      internalID: 910217334796921144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_138
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 125
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39e64a69ec4535870800000000000000
+      internalID: 8670366953885691539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_139
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 128
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5e76fee6fcdeb0f0800000000000000
+      internalID: -1099198305902625187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_140
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 128
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8806fefe00e7fe870800000000000000
+      internalID: 8714322346475741320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_141
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 128
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f16b0ccc446a17b30800000000000000
+      internalID: 4283387535029220895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_142
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 128
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f24691090abaf24a0800000000000000
+      internalID: -6615880621483269073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_143
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 128
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dda5fc4cf9fe97180800000000000000
+      internalID: -9116992501154096419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_144
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 128
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19c9bbaeebac9bf40800000000000000
+      internalID: 5744845721018539153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_145
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 128
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e796a3b0c27fb3aa0800000000000000
+      internalID: -6180074295096874626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_146
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 128
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20a1258c4583b3760800000000000000
+      internalID: 7438601146321738242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_147
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 126
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3074a9cefebaaac0800000000000000
+      internalID: -3843049330493329347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_148
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 128
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b4bcce373432eda0800000000000000
+      internalID: -5917109548529961800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_149
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 128
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05152dafedfc3d6d0800000000000000
+      internalID: -2966799172909248176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_150
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 128
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6d3bdbcaf43a42e0800000000000000
+      internalID: -2140840421094638227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_151
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 128
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35c8b4914830a8b10800000000000000
+      internalID: 1984402451705072723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_152
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 128
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4feb83256e650ba0800000000000000
+      internalID: -6123366737673195697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_153
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 128
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95126c3a752559d70800000000000000
+      internalID: 9049229562634183001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_154
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 128
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a233c498ded7e9f0800000000000000
+      internalID: -439137416855211355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_155
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 128
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec3fa1bf811bb1c50800000000000000
+      internalID: 6637093196710736846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_156
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 128
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76492cf971aadcd30800000000000000
+      internalID: 4453402624980587623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_157
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 128
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd93b9b5216e5d070800000000000000
+      internalID: 8130657668807997917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_158
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 128
+        width: 21
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 149e4e4409731aaa0800000000000000
+      internalID: -6151574523240715967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_159
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 128
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ff374496895a6fc0800000000000000
+      internalID: -3500887325778952204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_160
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 128
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a91ecbdba416f9d70800000000000000
+      internalID: 9052060749676732826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_161
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 128
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ad3829c83bf6ac00800000000000000
+      internalID: 911692195900702121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_162
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 125
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1218a05adcf78bb90800000000000000
+      internalID: -7225885080902008543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_163
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 128
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9fff9603aff47de0800000000000000
+      internalID: -1336162113766293605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_164
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 128
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 790b0cb599df58a80800000000000000
+      internalID: -8465081089461800809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_165
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 128
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e74a17e560a8eebf0800000000000000
+      internalID: -293145165773560706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_166
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 128
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43495259a164ec0c0800000000000000
+      internalID: -4553625093239630796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_167
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 128
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ac70661549e96610800000000000000
+      internalID: 1615078424326470816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_168
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 128
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4678ed0d2b4cfc010800000000000000
+      internalID: 1211403097073420132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_169
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 125
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6812f99f59ffb240800000000000000
+      internalID: 4809837116054968430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_170
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 128
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 894a2cdc1dfd69190800000000000000
+      internalID: -7955925599510158184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_171
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 128
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56cca81ab91efd140800000000000000
+      internalID: 4746760590818200677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_172
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 128
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecbe10afb547b66b0800000000000000
+      internalID: -5302016197913351218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_173
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 128
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ab85a9cf3530d100800000000000000
+      internalID: 130662937276025763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_174
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 128
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c0fffc1e92170110800000000000000
+      internalID: 1226969893782417608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_175
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 125
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f46c474f6f9357770800000000000000
+      internalID: 8607849995614602831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_176
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 128
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d28baf0e2ccca6270800000000000000
+      internalID: 8244627205225363501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_177
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 128
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fc87d06e1d98a7c0800000000000000
+      internalID: -4059822310275183375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_178
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 128
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 944c303337dbda570800000000000000
+      internalID: 8479641975883285577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_179
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 128
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b04b3b525852ad70800000000000000
+      internalID: 9052895311709290675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_180
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 128
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c17f72125b294d90800000000000000
+      internalID: -7113106504957333048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_181
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 128
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23b882f41909dd7e0800000000000000
+      internalID: -1739074927322428622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_182
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 128
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba4490a567d90ccc0800000000000000
+      internalID: -3692778562801548117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_183
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 128
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 515bc195752dc4360800000000000000
+      internalID: 7155325180583916821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_184
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 125
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb95e5aba0b302830800000000000000
+      internalID: 4044297382641162686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_185
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 128
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6635c103c7b6c9d0800000000000000
+      internalID: -2754312073914272148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_186
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 128
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 573ff95a284f8cdc0800000000000000
+      internalID: -3618373458630544523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_187
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 128
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc9b2ccef24122ad0800000000000000
+      internalID: -2728596228164896307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_188
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 128
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fc09819c6e216600800000000000000
+      internalID: 459699680801524980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_189
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 128
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c2e52500a8336160800000000000000
+      internalID: 7017514904305656516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_190
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 128
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0836db792dc518640800000000000000
+      internalID: 5080443914209289088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_191
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 128
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92ecf0dee46785990800000000000000
+      internalID: -7397032306599277015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_192
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 128
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aab4ff2659e32a160800000000000000
+      internalID: 7035254379238083498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_193
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 128
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d10abe9e383c7bfb0800000000000000
+      internalID: -4632018720394600419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_194
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 128
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff514be1de1447b30800000000000000
+      internalID: 4284121632214357503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_195
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 125
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9b388b686dc10ea0800000000000000
+      internalID: -5908215387768996966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_196
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 128
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f47afb59759445580800000000000000
+      internalID: -8839359528098093233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_197
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 125
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3e1df45be027be50800000000000000
+      internalID: 6824959955418553916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_198
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 128
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eab8618e988e57040800000000000000
+      internalID: 4644874269704489902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_199
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 125
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e830ec3aed6af3050800000000000000
+      internalID: 5782523921728144270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_200
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 128
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea1dac33840716300800000000000000
+      internalID: 243599310263603630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_201
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 128
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa3a964324016e880800000000000000
+      internalID: -8582154163374677073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_202
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 128
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cd4273ef460a49f0800000000000000
+      internalID: -483567069800804928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_203
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 128
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee69f9552820dd200800000000000000
+      internalID: 206323916734437102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_204
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 125
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a48f5ea90d6dee30800000000000000
+      internalID: 4534400288179586217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_205
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 37
+        width: 30
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5764cd2bd55eea30800000000000000
+      internalID: 4246425898511001437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_206
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 37
+        width: 30
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52a87162fbf2f2900800000000000000
+      internalID: 661800168271088165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_207
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 37
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47cad9aa734807c00800000000000000
+      internalID: 896361700467256436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_208
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 37
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d38be97b8546b1b50800000000000000
+      internalID: 6564951214023161917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_209
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 37
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f4beef473a826cf0800000000000000
+      internalID: -260493858265189127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_210
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 37
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c79994a7a1fa91d0800000000000000
+      internalID: -3343094071045810239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_211
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 37
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52a3059b2372202f0800000000000000
+      internalID: -1008200267766679003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_212
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 5
+        width: 176
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ee3de1ab2e4425c0800000000000000
+      internalID: -4241178999768924439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_213
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 5
+        width: 130
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eabad8cf3c1873100800000000000000
+      internalID: 87681396512762798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_0: -5584790811706853183
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_1: 7684766631497369899
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_10: -3113847569814224527
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_100: 5453635837703759194
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_101: -7677363231772283346
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_102: -4827798892990832689
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_103: -7158869957353850888
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_104: 8310837657617500147
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_105: 2478388842942798087
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_106: 7168300520481593039
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_107: -5959114338130235956
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_108: -3316903116796806052
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_109: 5151837457239627611
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_11: -5743437475710469358
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_110: 3530253855627988848
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_111: 7823845767882350642
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_112: 9112256669514285331
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_113: 6285194996130156149
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_114: 1248789256565702206
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_115: -4808210795868591825
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_116: 790701633258193679
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_117: -8703748972665003871
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_118: 3347686608601714178
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_119: -2902110406162686737
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_12: -2199232522259975978
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_120: 7760759284865578133
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_121: 6650992671933791964
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_122: -5658966050685663626
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_123: -1988400353159770515
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_124: 6559605455259398642
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_125: -6074133506557784706
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_126: 1797524855981253590
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_127: -7213075528345593730
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_128: -7734891990462998824
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_129: 8920973901653393540
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_13: 3838353320030959791
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_130: 7430786805350608947
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_131: -4000027942881189676
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_132: -872978921846246942
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_133: 8637953761236209473
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_134: -1322037260927050601
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_135: -7903158075782529497
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_136: 3333540476122386002
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_137: 910217334796921144
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_138: 8670366953885691539
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_139: -1099198305902625187
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_14: 305243728236521401
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_140: 8714322346475741320
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_141: 4283387535029220895
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_142: -6615880621483269073
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_143: -9116992501154096419
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_144: 5744845721018539153
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_145: -6180074295096874626
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_146: 7438601146321738242
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_147: -3843049330493329347
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_148: -5917109548529961800
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_149: -2966799172909248176
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_15: -7182941225567548048
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_150: -2140840421094638227
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_151: 1984402451705072723
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_152: -6123366737673195697
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_153: 9049229562634183001
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_154: -439137416855211355
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_155: 6637093196710736846
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_156: 4453402624980587623
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_157: 8130657668807997917
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_158: -6151574523240715967
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_159: -3500887325778952204
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_16: 4716211378650757972
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_160: 9052060749676732826
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_161: 911692195900702121
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_162: -7225885080902008543
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_163: -1336162113766293605
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_164: -8465081089461800809
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_165: -293145165773560706
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_166: -4553625093239630796
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_167: 1615078424326470816
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_168: 1211403097073420132
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_169: 4809837116054968430
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_17: -5785075454734233317
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_170: -7955925599510158184
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_171: 4746760590818200677
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_172: -5302016197913351218
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_173: 130662937276025763
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_174: 1226969893782417608
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_175: 8607849995614602831
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_176: 8244627205225363501
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_177: -4059822310275183375
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_178: 8479641975883285577
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_179: 9052895311709290675
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_18: -4309228801757404189
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_180: -7113106504957333048
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_181: -1739074927322428622
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_182: -3692778562801548117
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_183: 7155325180583916821
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_184: 4044297382641162686
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_185: -2754312073914272148
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_186: -3618373458630544523
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_187: -2728596228164896307
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_188: 459699680801524980
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_189: 7017514904305656516
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_19: -3145524252270717514
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_190: 5080443914209289088
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_191: -7397032306599277015
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_192: 7035254379238083498
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_193: -4632018720394600419
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_194: 4284121632214357503
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_195: -5908215387768996966
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_196: -8839359528098093233
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_197: 6824959955418553916
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_198: 4644874269704489902
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_199: 5782523921728144270
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_2: 6070680427308805816
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_20: 7233357861097102734
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_200: 243599310263603630
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_201: -8582154163374677073
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_202: -483567069800804928
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_203: 206323916734437102
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_204: 4534400288179586217
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_205: 4246425898511001437
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_206: 661800168271088165
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_207: 896361700467256436
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_208: 6564951214023161917
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_209: -260493858265189127
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_21: -196106250760854553
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_210: -3343094071045810239
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_211: -1008200267766679003
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_212: -4241178999768924439
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_213: 87681396512762798
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_22: 2760489517158989132
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_23: 3093429673716153566
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_24: -773575967659887372
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_25: 1468923751009076278
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_26: 1758484827451625917
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_27: 4181085175366982244
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_28: 153441397134825004
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_29: -9201845222270624023
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_3: 3432215466004868863
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_30: 2060311608142444103
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_31: -7872734976273365041
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_32: -2215605583052417780
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_33: -6446386036325957673
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_34: -4087709448247991028
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_35: 1507089058764104540
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_36: 5992054258828879849
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_37: 1670959282727663279
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_38: 3468582580024143910
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_39: -823666905894804600
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_4: -2385859971728177368
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_40: 2483622209046216167
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_41: -3868377954006959510
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_42: 5092081610127985478
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_43: 29986692947370580
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_44: 129761083503737144
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_45: -3133658469701828870
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_46: -3861561714031664267
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_47: -9081999092157934959
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_48: 7457903012175909999
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_49: -1485242116002402074
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_5: -4743150321555797280
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_50: -990045160004476691
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_51: 5924153274443444464
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_52: -1621739754454348860
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_53: -8733583653662741451
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_54: -4697514157466539392
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_55: -2736056331230273737
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_56: -7154243953363360664
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_57: -8535085618078131690
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_58: -2540951997792312048
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_59: 7161243260118296126
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_6: 4052730074889339060
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_60: 7073989700685670600
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_61: -276460389565307261
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_62: 4649090518472750783
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_63: -7627844459086758274
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_64: -7633744390596702755
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_65: -7046351924672878034
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_66: -6181307046966035110
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_67: 4112637557056743131
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_68: -7411987217723750334
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_69: -2132541369633983167
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_7: 8501521745117729757
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_70: 6005288759146622819
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_71: -5773844311071123329
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_72: -1444310041873585804
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_73: 2738968223990845969
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_74: 6743579856888038298
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_75: -4479421396478927520
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_76: 2618593386187253950
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_77: 1562263740649850286
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_78: 1954472255911021780
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_79: -6017876252145637778
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_8: -3132434006832300295
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_80: 2398126821626261070
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_81: -4974882342600360833
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_82: -1799286676616620927
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_83: -4679979092021440887
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_84: 7520810771942170792
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_85: -171439146375862658
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_86: 4516378473994028599
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_87: 1163937794959578336
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_88: -4965187627556073171
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_89: -1294290337044730158
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_9: 5560450277385760509
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_90: -6138457889316486028
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_91: -8134916763180111154
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_92: -302292387171432017
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_93: -558627521985444206
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_94: 987518945610029803
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_95: 9018334362488883617
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_96: -3998408469877825917
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_97: -2543343123236645052
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_98: 5805493055521673584
+      DS _ DSi - Mario & Luigi_ Partners in Time - Enemies - Pokey_99: 8126503413466525776
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
