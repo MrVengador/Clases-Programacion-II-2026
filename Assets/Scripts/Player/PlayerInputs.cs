@@ -41,5 +41,15 @@ public class PlayerInputs : MonoBehaviour
             //attack.Shoot();
             animScript.TriggerShoot();
         }
+
+        // Correr
+        if (Input.GetKeyDown(KeyCode.LeftShift)) // Presiono Shift
+        {
+            controller.SetRunning(true);
+        }
+        else if (Input.GetKeyUp(KeyCode.LeftShift)) // Suelto Shift
+        {
+            controller.SetRunning(false);
+        }
     }
 }

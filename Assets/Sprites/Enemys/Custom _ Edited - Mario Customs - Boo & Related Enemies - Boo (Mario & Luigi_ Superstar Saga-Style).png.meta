@@ -1,0 +1,5939 @@
+fileFormatVersion: 2
+guid: cc3a4e1db47fc1749bf174a674adc590
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3670692648503247873
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_0
+  - first:
+      213: -7506456902397174596
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_1
+  - first:
+      213: -7664839286732593614
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_2
+  - first:
+      213: 6444316259605484887
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_3
+  - first:
+      213: -2680125280804976938
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_4
+  - first:
+      213: -7704483228911607478
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_5
+  - first:
+      213: -5404634089699813931
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_6
+  - first:
+      213: 4856346116316762175
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_7
+  - first:
+      213: 5793954568044559737
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_8
+  - first:
+      213: 4279866629950773029
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_9
+  - first:
+      213: -5551531405876549935
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_10
+  - first:
+      213: -8166001084884522116
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_11
+  - first:
+      213: 8388385796191817713
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_12
+  - first:
+      213: -4646237064352858943
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_13
+  - first:
+      213: 2434445086263821250
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_14
+  - first:
+      213: 375728374351362479
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_15
+  - first:
+      213: 7740225796474598193
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_16
+  - first:
+      213: -6905228710215718226
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_17
+  - first:
+      213: 5116151285152293979
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_18
+  - first:
+      213: -6957055737123046546
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_19
+  - first:
+      213: -3801012646904646676
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_20
+  - first:
+      213: -5522586264375531716
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_21
+  - first:
+      213: -3628140431366136834
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_22
+  - first:
+      213: 7710034721950336974
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_23
+  - first:
+      213: 3285666849213271896
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_24
+  - first:
+      213: 2998842560391892377
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_25
+  - first:
+      213: -94270084255009287
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_26
+  - first:
+      213: -7544270495186784674
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_27
+  - first:
+      213: 8903451921647434921
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_28
+  - first:
+      213: 7695445613966961748
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_29
+  - first:
+      213: 3724449979919429409
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_30
+  - first:
+      213: 1126413762659731172
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_31
+  - first:
+      213: 4032630993907012708
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_32
+  - first:
+      213: 8723708077142418327
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_33
+  - first:
+      213: 5543960147341592879
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_34
+  - first:
+      213: -1908923280231574799
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_35
+  - first:
+      213: -8621539941539295634
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_36
+  - first:
+      213: -2013091627718103401
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_37
+  - first:
+      213: -9051020427064622054
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_38
+  - first:
+      213: 6765482805653544400
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_39
+  - first:
+      213: -6834283033551588716
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_40
+  - first:
+      213: 2823903400573326013
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_41
+  - first:
+      213: 8927435249869294729
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_42
+  - first:
+      213: 3223490843341836071
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_43
+  - first:
+      213: 5379796794264577406
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_44
+  - first:
+      213: -2919591629805881280
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_45
+  - first:
+      213: 1028059730304878574
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_46
+  - first:
+      213: -8241177187020342049
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_47
+  - first:
+      213: -3169318474385100775
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_48
+  - first:
+      213: -1761311761377702309
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_49
+  - first:
+      213: -2353543956271470046
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_50
+  - first:
+      213: -8795747794758772798
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_51
+  - first:
+      213: 1449187135988478007
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_52
+  - first:
+      213: 1301504355600377959
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_53
+  - first:
+      213: -2996136579423743843
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_54
+  - first:
+      213: 87377023636976926
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_55
+  - first:
+      213: -5063120451908234041
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_56
+  - first:
+      213: 6231512276083503663
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_57
+  - first:
+      213: -9077233314688786154
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_58
+  - first:
+      213: 2805044757459020505
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_59
+  - first:
+      213: 6317091470223997872
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_60
+  - first:
+      213: 475457826951724170
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_61
+  - first:
+      213: -636834538057799312
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_62
+  - first:
+      213: -5311324723974207898
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_63
+  - first:
+      213: -8370109272731679585
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_64
+  - first:
+      213: -1392167645885929417
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_65
+  - first:
+      213: -6806188111081672859
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_66
+  - first:
+      213: 7946053158342058994
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_67
+  - first:
+      213: 9176307330705482268
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_68
+  - first:
+      213: -3477042554041666253
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_69
+  - first:
+      213: -1052461366889031857
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_70
+  - first:
+      213: 8865064140784047472
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_71
+  - first:
+      213: -2488423762419423236
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_72
+  - first:
+      213: -4231941302119120850
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_73
+  - first:
+      213: -4308744287531019689
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_74
+  - first:
+      213: -8596286271357172459
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_75
+  - first:
+      213: 4162116661481335730
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_76
+  - first:
+      213: -5251694356909210189
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_77
+  - first:
+      213: -987008585629556832
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_78
+  - first:
+      213: -968984969665601784
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_79
+  - first:
+      213: 2760219665055787407
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_80
+  - first:
+      213: 1844172787703254551
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_81
+  - first:
+      213: 9054794511771778971
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_82
+  - first:
+      213: -6355797712057806720
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_83
+  - first:
+      213: -2728380371681381448
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_84
+  - first:
+      213: 8365313042773599880
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_85
+  - first:
+      213: 226113406427043442
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_86
+  - first:
+      213: -7531400614794964298
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_87
+  - first:
+      213: -6914433682233603146
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_88
+  - first:
+      213: -5142767247654635105
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_89
+  - first:
+      213: -6220599177846320995
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_90
+  - first:
+      213: -6415301614351426242
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_91
+  - first:
+      213: -3508100349770525981
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_92
+  - first:
+      213: 482706137290573521
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_93
+  - first:
+      213: 2625565072394915523
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_94
+  - first:
+      213: -5845770222058541016
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_95
+  - first:
+      213: 8723266049198979507
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_96
+  - first:
+      213: 2365590499737407316
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_97
+  - first:
+      213: 6998563650782486668
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_98
+  - first:
+      213: 3323534401161965533
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_99
+  - first:
+      213: 695971386249105354
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_100
+  - first:
+      213: 345096880778460907
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_101
+  - first:
+      213: -9139588529538562344
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_102
+  - first:
+      213: 3604348158444067633
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_103
+  - first:
+      213: 2235672674348875721
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_104
+  - first:
+      213: -6950511690615254056
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_105
+  - first:
+      213: -6639715261706802213
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_106
+  - first:
+      213: -6773694086467788831
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_107
+  - first:
+      213: 6147219875066940071
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_108
+  - first:
+      213: 3265697254608540648
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_109
+  - first:
+      213: 7078533899042493625
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_110
+  - first:
+      213: 4883338673051646356
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_111
+  - first:
+      213: -5526505515483227457
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_112
+  - first:
+      213: 3046526494345425049
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_113
+  - first:
+      213: 5798096562908484327
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_114
+  - first:
+      213: 1622567855984497427
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_115
+  - first:
+      213: -373255831425991469
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_116
+  - first:
+      213: -8879889402712936584
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_117
+  - first:
+      213: -4739221248833778693
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_118
+  - first:
+      213: 1937672142657783645
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_119
+  - first:
+      213: 6603468749450462909
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_120
+  - first:
+      213: 8280965302197407740
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_121
+  - first:
+      213: -462046000801428496
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_122
+  - first:
+      213: 1692292248709606380
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_123
+  - first:
+      213: 4054141708998787676
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_124
+  - first:
+      213: 8506512932587655181
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_125
+  - first:
+      213: -710957139876694703
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_126
+  - first:
+      213: -2408725796544106081
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_127
+  - first:
+      213: -6752105432296844048
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_128
+  - first:
+      213: 9215652727175938054
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_129
+  - first:
+      213: -1973300358737393641
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_130
+  - first:
+      213: -6649508526349576648
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_131
+  - first:
+      213: 5768582977123019609
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_132
+  - first:
+      213: -2140956451066923468
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_133
+  - first:
+      213: -1478365744307192291
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_134
+  - first:
+      213: -4288865645117208900
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_135
+  - first:
+      213: -8786358621103051531
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_136
+  - first:
+      213: 3643492959930824478
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_137
+  - first:
+      213: -6410225353815967241
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_138
+  - first:
+      213: 1885071700945903944
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_139
+  - first:
+      213: -1525061626040242001
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_140
+  - first:
+      213: -2840853413902790799
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_141
+  - first:
+      213: 8251379069150372826
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_142
+  - first:
+      213: -9087746873442765253
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_143
+  - first:
+      213: -9121431896962314321
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_144
+  - first:
+      213: -1199845063327274954
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_145
+  - first:
+      213: -8943911363443244574
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_146
+  - first:
+      213: 3189182161901855737
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_147
+  - first:
+      213: -7243576206535707984
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_148
+  - first:
+      213: 5690160612075203630
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_149
+  - first:
+      213: -5135827198586391844
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_150
+  - first:
+      213: -3737688497803789062
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_151
+  - first:
+      213: 169640482840155177
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_152
+  - first:
+      213: -639544785824289107
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_153
+  - first:
+      213: -4947550394132742806
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_154
+  - first:
+      213: 5956370826027038348
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_155
+  - first:
+      213: 3206027045170595893
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_156
+  - first:
+      213: 1726754627423203410
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_157
+  - first:
+      213: -3191690640002845503
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_158
+  - first:
+      213: 2936681754435621273
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_159
+  - first:
+      213: -3940931593145686966
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_160
+  - first:
+      213: 3661703720293530530
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_161
+  - first:
+      213: -8026151486774962150
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_162
+  - first:
+      213: -8218295676520032564
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_163
+  - first:
+      213: 5757811855404790685
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_164
+  - first:
+      213: -5195729633590035426
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_165
+  - first:
+      213: 7694022049582473652
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_166
+  - first:
+      213: 7672792120827278667
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_167
+  - first:
+      213: 1603131434094781709
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_168
+  - first:
+      213: 1558228549115781291
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_169
+  - first:
+      213: 4277625936207932622
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_170
+  - first:
+      213: 7792292936686265594
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_171
+  - first:
+      213: 7578791009583270024
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_172
+  - first:
+      213: 2739497223605152834
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_173
+  - first:
+      213: -6741340425127391136
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_174
+  - first:
+      213: -1251627411717414148
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_175
+  - first:
+      213: -5426880214670256109
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_176
+  - first:
+      213: -7116270992869381783
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_177
+  - first:
+      213: -274819968109262413
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_178
+  - first:
+      213: 58411660758564674
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_179
+  - first:
+      213: 6250115552161301582
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_180
+  - first:
+      213: 4356911629365234041
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_181
+  - first:
+      213: -7144104086912656869
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_182
+  - first:
+      213: 5283358237873809775
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_183
+  - first:
+      213: 673471930126771828
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_184
+  - first:
+      213: -7866703894237036294
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_185
+  - first:
+      213: 4475022674223125097
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_186
+  - first:
+      213: -8272758920828124191
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_187
+  - first:
+      213: 8098606155140260789
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_188
+  - first:
+      213: 1332639599349583377
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_189
+  - first:
+      213: 7679225588638850981
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_190
+  - first:
+      213: -6663102188615405970
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_191
+  - first:
+      213: 1409246677067014989
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_192
+  - first:
+      213: 2858182572632673168
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_193
+  - first:
+      213: -1564603279724309583
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_194
+  - first:
+      213: -4829214506102721098
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_195
+  - first:
+      213: -7883119498984612797
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_196
+  - first:
+      213: -9182763802710833990
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_197
+  - first:
+      213: 8763801012822632965
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_198
+  - first:
+      213: 627658285162003143
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_199
+  - first:
+      213: -7772818951510629254
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_200
+  - first:
+      213: 8737586423116946736
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_201
+  - first:
+      213: 5095276119223142295
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_202
+  - first:
+      213: 6267309514641542733
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_203
+  - first:
+      213: 8545744050687443578
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_204
+  - first:
+      213: 8623646274662626896
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_205
+  - first:
+      213: 1285221797754971065
+    second: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+      & Luigi_ Superstar Saga-Style)_206
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 448
+        width: 106
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffb735efb741f0dc0800000000000000
+      internalID: -3670692648503247873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_1
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 451
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbc56dad735b3d790800000000000000
+      internalID: -7506456902397174596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_2
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 448
+        width: 106
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23668dd574501a590800000000000000
+      internalID: -7664839286732593614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_3
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 443
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7551f02ae7fce6950800000000000000
+      internalID: 6444316259605484887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_4
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 417
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d6431cc1484ecad0800000000000000
+      internalID: -2680125280804976938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_5
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 416
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a41e4cac25d241590800000000000000
+      internalID: -7704483228911607478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_6
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 415
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d5d97e2ee1eef4b0800000000000000
+      internalID: -5404634089699813931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_7
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 414
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3098611015356340800000000000000
+      internalID: 4856346116316762175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_8
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 415
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97d3c016bf2486050800000000000000
+      internalID: 5793954568044559737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_9
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 416
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52793443604256b30800000000000000
+      internalID: 4279866629950773029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_10
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 414
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d6ad41899ff4f2b0800000000000000
+      internalID: -5551531405876549935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_11
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 417
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7be00457498cae80800000000000000
+      internalID: -8166001084884522116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_12
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 416
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ff02f42078896470800000000000000
+      internalID: 8388385796191817713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_13
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 415
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cc7efcb100458fb0800000000000000
+      internalID: -4646237064352858943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_14
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 414
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c343ff58e2e8c120800000000000000
+      internalID: 2434445086263821250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_15
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 415
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa97f3d37fad63500800000000000000
+      internalID: 375728374351362479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_16
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 416
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 133fe283a5eca6b60800000000000000
+      internalID: 7740225796474598193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_17
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 414
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaa63c2d213bb20a0800000000000000
+      internalID: -6905228710215718226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_18
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 390
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5429a0cc78300740800000000000000
+      internalID: 5116151285152293979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_19
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 390
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6bff2acaa2937f90800000000000000
+      internalID: -6957055737123046546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_20
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 390
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce33b72e227104bc0800000000000000
+      internalID: -3801012646904646676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_21
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 390
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c37e17e6d05db53b0800000000000000
+      internalID: -5522586264375531716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_22
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 390
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efb5039108146adc0800000000000000
+      internalID: -3628140431366136834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_23
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 390
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec707c7eabb8ffa60800000000000000
+      internalID: 7710034721950336974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_24
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 390
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85f42a55798099d20800000000000000
+      internalID: 3285666849213271896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_25
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 390
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99d4b7d8b670e9920800000000000000
+      internalID: 2998842560391892377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_26
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 390
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f5b80b9bd511bef0800000000000000
+      internalID: -94270084255009287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_27
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 390
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5e6ee4b4fd5d4790800000000000000
+      internalID: -7544270495186784674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_28
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 390
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ac7098a95a6f8b70800000000000000
+      internalID: 8903451921647434921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_29
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 390
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45ca6d08307bbca60800000000000000
+      internalID: 7695445613966961748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_30
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 390
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12feec41687efa330800000000000000
+      internalID: 3724449979919429409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_31
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 390
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e6c1716953d1af00800000000000000
+      internalID: 1126413762659731172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_32
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 358
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 464de0ee588c6f730800000000000000
+      internalID: 4032630993907012708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_33
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 359
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 793a746a646d01970800000000000000
+      internalID: 8723708077142418327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_34
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 358
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f29c73f716a10fc40800000000000000
+      internalID: 5543960147341592879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_35
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 357
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f2d25af3642285e0800000000000000
+      internalID: -1908923280231574799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_36
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 358
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6e45bf1a132a5880800000000000000
+      internalID: -8621539941539295634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_37
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 359
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79eac8594df0014e0800000000000000
+      internalID: -2013091627718103401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_38
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 358
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a14420e30e0546280800000000000000
+      internalID: -9051020427064622054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_39
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 359
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dd1ef444c2d3ed50800000000000000
+      internalID: 6765482805653544400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_40
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 358
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 492bda26acfb721a0800000000000000
+      internalID: -6834283033551588716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_41
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 357
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db2d03f5e25803720800000000000000
+      internalID: 2823903400573326013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_42
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 358
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98c82c76f0f94eb70800000000000000
+      internalID: 8927435249869294729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_43
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 359
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72f4d1ed7d32cbc20800000000000000
+      internalID: 3223490843341836071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_44
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 331
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e75ece55ea0e8aa40800000000000000
+      internalID: 5379796794264577406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_45
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 331
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0487730a1e68b77d0800000000000000
+      internalID: -2919591629805881280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_46
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 331
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee7c4b8b0e6644e00800000000000000
+      internalID: 1028059730304878574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_47
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 331
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdc7994130571ad80800000000000000
+      internalID: -8241177187020342049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_48
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 331
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 910713aa3a15404d0800000000000000
+      internalID: -3169318474385100775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_49
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 331
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5e4d5ce8409e87e0800000000000000
+      internalID: -1761311761377702309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_50
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 331
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22aeb2bcd38865fd0800000000000000
+      internalID: -2353543956271470046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_51
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 331
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c75a778bf93fe580800000000000000
+      internalID: -8795747794758772798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_52
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 331
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 730b8a5a50c8c1410800000000000000
+      internalID: 1449187135988478007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_53
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 331
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7682f25d05fdf0210800000000000000
+      internalID: 1301504355600377959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_54
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 331
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d90d4ecb7a59b66d0800000000000000
+      internalID: -2996136579423743843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_55
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 331
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e15b967a0fc663100800000000000000
+      internalID: 87377023636976926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_56
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 299
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c49ef846ce2cb9b0800000000000000
+      internalID: -5063120451908234041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_57
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 299
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f22717d2667ca7650800000000000000
+      internalID: 6231512276083503663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_58
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 299
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61122aeb460370280800000000000000
+      internalID: -9077233314688786154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_59
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 299
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9daaa6b58558de620800000000000000
+      internalID: 2805044757459020505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_60
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 299
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bbf9580931daa750800000000000000
+      internalID: 6317091470223997872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_61
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 299
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8cf221ef5a299600800000000000000
+      internalID: 475457826951724170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_62
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 299
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0796d5a9c528927f0800000000000000
+      internalID: -636834538057799312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_63
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 299
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66684ccdd426a46b0800000000000000
+      internalID: -5311324723974207898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_64
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 299
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9400a396f567db80800000000000000
+      internalID: -8370109272731679585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_65
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 299
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7386d2fe6e60eace0800000000000000
+      internalID: -1392167645885929417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_66
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 299
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56f6d7449ff8b81a0800000000000000
+      internalID: -6806188111081672859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_67
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 299
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f3695d5f3d064e60800000000000000
+      internalID: 7946053158342058994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_68
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 299
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c12638c26eac85f70800000000000000
+      internalID: 9176307330705482268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_69
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 299
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 335fd6128301fbfc0800000000000000
+      internalID: -3477042554041666253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_70
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 299
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f47d1c686f7e461f0800000000000000
+      internalID: -1052461366889031857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_71
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 299
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0759c7eedd8070b70800000000000000
+      internalID: 8865064140784047472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_72
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 299
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf76956b5c7577dd0800000000000000
+      internalID: -2488423762419423236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_73
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 299
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e20c2e8becf1545c0800000000000000
+      internalID: -4231941302119120850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_74
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 299
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75258b136e34434c0800000000000000
+      internalID: -4308744287531019689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_75
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 299
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51540386e2bd3b880800000000000000
+      internalID: -8596286271357172459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_76
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 272
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bb64514d0fc2c930800000000000000
+      internalID: 4162116661481335730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_77
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 272
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b5c08b9ecb3e17b0800000000000000
+      internalID: -5251694356909210189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_78
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 272
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0af1a47bbe07d42f0800000000000000
+      internalID: -987008585629556832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_79
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 272
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80f9362dd497d82f0800000000000000
+      internalID: -968984969665601784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_80
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 272
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f89a2bd39254e4620800000000000000
+      internalID: 2760219665055787407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_81
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 272
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71e8e7b2161d79910800000000000000
+      internalID: 1844172787703254551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_82
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 272
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9f305452a719ad70800000000000000
+      internalID: 9054794511771778971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_83
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 272
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 080dd84c7ababc7a0800000000000000
+      internalID: -6355797712057806720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_84
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 272
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b378cde188d22ad0800000000000000
+      internalID: -2728380371681381448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_85
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 272
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 886667d14ef871470800000000000000
+      internalID: 8365313042773599880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_86
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 272
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2769905f1f0532300800000000000000
+      internalID: 226113406427043442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_87
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 272
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b2dcfd3b071b7790800000000000000
+      internalID: -7531400614794964298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_88
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 272
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bb4873433ffa00a0800000000000000
+      internalID: -6914433682233603146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_89
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 272
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9938019f6831a8b0800000000000000
+      internalID: -5142767247654635105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_90
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 272
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d901262810efba9a0800000000000000
+      internalID: -6220599177846320995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_91
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 272
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3dd795eb2548f6a0800000000000000
+      internalID: -6415301614351426242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_92
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 272
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e2118f8159b05fc0800000000000000
+      internalID: -3508100349770525981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_93
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 272
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d60b14acaae2b600800000000000000
+      internalID: 482706137290573521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_94
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 272
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ce85c2c581ef6420800000000000000
+      internalID: 2625565072394915523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_95
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 272
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 820f4ab84f6afdea0800000000000000
+      internalID: -5845770222058541016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_96
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 239
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b9fabff0444f0970800000000000000
+      internalID: 8723266049198979507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_97
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 239
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45f03eca60444d020800000000000000
+      internalID: 2365590499737407316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_98
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 239
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c80e9d67f84ef1160800000000000000
+      internalID: 6998563650782486668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_99
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 239
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddfac04dde09f1e20800000000000000
+      internalID: 3323534401161965533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_100
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 237
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acfc633d94698a900800000000000000
+      internalID: 695971386249105354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_101
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 239
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bee35efd8c70ac400800000000000000
+      internalID: 345096880778460907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_102
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 239
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d68e9fe7a8a92180800000000000000
+      internalID: -9139588529538562344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_103
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 239
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13b54eead87350230800000000000000
+      internalID: 3604348158444067633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_104
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 239
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cfbc94c374b60f10800000000000000
+      internalID: 2235672674348875721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_105
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 237
+        width: 38
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d39da95172da8f90800000000000000
+      internalID: -6950511690615254056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_106
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 239
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdbe930f52efad3a0800000000000000
+      internalID: -6639715261706802213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_107
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 227
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ef5ceeed110ff1a0800000000000000
+      internalID: -6773694086467788831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_108
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 227
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aa069138ef4f4550800000000000000
+      internalID: 6147219875066940071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_109
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 227
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e319e4c956125d20800000000000000
+      internalID: 3265697254608540648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_110
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 227
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b41df6d3110c3260800000000000000
+      internalID: 7078533899042493625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_111
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 227
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 499bb2d66aa15c340800000000000000
+      internalID: 4883338673051646356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_112
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 227
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fba926ca388ed43b0800000000000000
+      internalID: -5526505515483227457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_113
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 227
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 990764694bf674a20800000000000000
+      internalID: 3046526494345425049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_114
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 227
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e2d295ba1af67050800000000000000
+      internalID: 5798096562908484327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_115
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 227
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3135ce74ed4848610800000000000000
+      internalID: 1622567855984497427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_116
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 227
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dcb2858ccde1daf0800000000000000
+      internalID: -373255831425991469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_117
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 227
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87f2a8ac2ab44c480800000000000000
+      internalID: -8879889402712936584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_118
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 196
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfb87473267ea3eb0800000000000000
+      internalID: -4739221248833778693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_119
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 196
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d57894a2c8ef3ea10800000000000000
+      internalID: 1937672142657783645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_120
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 196
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db6436847db34ab50800000000000000
+      internalID: 6603468749450462909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_121
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 196
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cffcfc26116ebe270800000000000000
+      internalID: 8280965302197407740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_122
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 192
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb475c3c9b7699f0800000000000000
+      internalID: -462046000801428496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_123
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 196
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cebab7485da3c7710800000000000000
+      internalID: 1692292248709606380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_124
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 196
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c52c7f19764334830800000000000000
+      internalID: 4054141708998787676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_125
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 196
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d00572851743d0670800000000000000
+      internalID: 8506512932587655181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_126
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 196
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1553f138f3c2226f0800000000000000
+      internalID: -710957139876694703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_127
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 196
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f913ba766ac729ed0800000000000000
+      internalID: -2408725796544106081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_128
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 196
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f416fd22e3bb42a0800000000000000
+      internalID: -6752105432296844048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_129
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 196
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6008ea8245394ef70800000000000000
+      internalID: 9215652727175938054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_130
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 196
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7188e4a57cd6d94e0800000000000000
+      internalID: -1973300358737393641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_131
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 196
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8369004d93338b3a0800000000000000
+      internalID: -6649508526349576648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_132
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 192
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95b68c887af1e0050800000000000000
+      internalID: 5768582977123019609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_133
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 196
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4363396737bc942e0800000000000000
+      internalID: -2140956451066923468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_134
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 196
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1eb672303acb7be0800000000000000
+      internalID: -1478365744307192291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_135
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 196
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb6896d4b63ea74c0800000000000000
+      internalID: -4288865645117208900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_136
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 196
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fc26ffd265901680800000000000000
+      internalID: -8786358621103051531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_137
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 196
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1730520b89409230800000000000000
+      internalID: 3643492959930824478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_138
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 178
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f9b897e00e4a07a0800000000000000
+      internalID: -6410225353815967241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_139
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 178
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 841a50779be192a10800000000000000
+      internalID: 1885071700945903944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_140
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 178
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa0ba4ff784e5dae0800000000000000
+      internalID: -1525061626040242001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_141
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 178
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17f4e5d1fd24398d0800000000000000
+      internalID: -2840853413902790799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_142
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 178
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad32dc3bb89c28270800000000000000
+      internalID: 8251379069150372826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_143
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 178
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b36f6c71e56d1e180800000000000000
+      internalID: -9087746873442765253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_144
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 178
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fafc4a2640a2a6180800000000000000
+      internalID: -9121431896962314321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_145
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 178
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6382fde954b495fe0800000000000000
+      internalID: -1199845063327274954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_146
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 178
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e1c2677008d0e380800000000000000
+      internalID: -8943911363443244574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_147
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 178
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f32c2c7740424c20800000000000000
+      internalID: 3189182161901855737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_148
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 178
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b2b7f971d5a97b90800000000000000
+      internalID: -7243576206535707984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_149
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 178
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2c69adcde287fe40800000000000000
+      internalID: 5690160612075203630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_150
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 178
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd2f778af50e9b8b0800000000000000
+      internalID: -5135827198586391844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_151
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 178
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afc77574d10112cc0800000000000000
+      internalID: -3737688497803789062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_152
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 178
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 924963fce1faa5200800000000000000
+      internalID: 169640482840155177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_153
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 178
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dae6dfed761ef17f0800000000000000
+      internalID: -639544785824289107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_154
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 178
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6dbf593125c65bb0800000000000000
+      internalID: -4947550394132742806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_155
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 178
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8677d345b749a250800000000000000
+      internalID: 5956370826027038348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_156
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 178
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53840bf7c981e7c20800000000000000
+      internalID: 3206027045170595893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_157
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 178
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25072d55f2aa6f710800000000000000
+      internalID: 1726754627423203410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_158
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 144
+        width: 106
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c4f0b1f546d4b3d0800000000000000
+      internalID: -3191690640002845503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_159
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 143
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99191871f7031c820800000000000000
+      internalID: 2936681754435621273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_160
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 146
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a44ef62989ffe49c0800000000000000
+      internalID: -3940931593145686966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_161
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 143
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ab72d0122cf0d230800000000000000
+      internalID: 3661703720293530530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_162
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 142
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a181e454fb16d9090800000000000000
+      internalID: -8026151486774962150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_163
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 141
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc615e5ef9fb2fd80800000000000000
+      internalID: -8218295676520032564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_164
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 143
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d937fe4506bd7ef40800000000000000
+      internalID: 5757811855404790685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_165
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 143
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1c35e82d6f05e7b0800000000000000
+      internalID: -5195729633590035426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_166
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 144
+        width: 106
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b1e2671a48a6ca60800000000000000
+      internalID: 7694022049582473652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_167
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 143
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b45735d18cb3b7a60800000000000000
+      internalID: 7672792120827278667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_168
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 141
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d056b79ab877f3610800000000000000
+      internalID: 1603131434094781709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_169
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 143
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba02bec0c90ff9510800000000000000
+      internalID: 1558228549115781291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_170
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 142
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecceba9002e2d5b30800000000000000
+      internalID: 4277625936207932622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_171
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 141
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af468fcf329c32c60800000000000000
+      internalID: 7792292936686265594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_172
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 143
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8888221e4464d2960800000000000000
+      internalID: 7578791009583270024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_173
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 143
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24c672cd536a40620800000000000000
+      internalID: 2739497223605152834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_174
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 71
+        width: 153
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0601d4ab992f172a0800000000000000
+      internalID: -6741340425127391136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_175
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 115
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf2217d108351aee0800000000000000
+      internalID: -1251627411717414148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_176
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 115
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 318dbf59239dfa4b0800000000000000
+      internalID: -5426880214670256109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_177
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 114
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 969aa905c3ded3d90800000000000000
+      internalID: -7116270992869381783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_178
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 115
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b9c9afe1b4af2cf0800000000000000
+      internalID: -274819968109262413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_179
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 115
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24f314298158fc000800000000000000
+      internalID: 58411660758564674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_180
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 111
+        width: 106
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4408bbeafedcb650800000000000000
+      internalID: 6250115552161301582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_181
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 110
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97945120b0cd67c30800000000000000
+      internalID: 4356911629365234041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_182
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 108
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1a972d1f2b0bdc90800000000000000
+      internalID: -7144104086912656869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_183
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 115
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f692a9d2352425940800000000000000
+      internalID: 5283358237873809775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_184
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 115
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4762769f627a85900800000000000000
+      internalID: 673471930126771828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_185
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 114
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af0c1dedc7ad3d290800000000000000
+      internalID: -7866703894237036294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_186
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 115
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96253ea99697a1e30800000000000000
+      internalID: 4475022674223125097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_187
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 115
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e3889ba791413d80800000000000000
+      internalID: -8272758920828124191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_188
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 87
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b36decc367046070800000000000000
+      internalID: 8098606155140260789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_189
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 86
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11ec9dca7ac7e7210800000000000000
+      internalID: 1332639599349583377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_190
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 85
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5af98e09cf6129a60800000000000000
+      internalID: 7679225588638850981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_191
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 87
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6e6371bcd7e783a0800000000000000
+      internalID: -6663102188615405970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_192
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 87
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d43aa73e266ae8310800000000000000
+      internalID: 1409246677067014989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_193
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 78
+        width: 106
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09b8bf018ed4aa720800000000000000
+      internalID: 2858182572632673168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_194
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 77
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b31f915b99694ae0800000000000000
+      internalID: -1564603279724309583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_195
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 75
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b575933efe2bfcb0800000000000000
+      internalID: -4829214506102721098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_196
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 87
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34c111d0598899290800000000000000
+      internalID: -7883119498984612797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_197
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 86
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab40b1b49f4409080800000000000000
+      internalID: -9182763802710833990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_198
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 85
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50a608ba6964f9970800000000000000
+      internalID: 8763801012822632965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_199
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 87
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ca796782e3e5b800800000000000000
+      internalID: 627658285162003143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_200
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 87
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a74e8c38856612490800000000000000
+      internalID: -7772818951510629254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_201
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 72
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03d5920ee84224970800000000000000
+      internalID: 8737586423116946736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_202
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 71
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79783de62ae06b640800000000000000
+      internalID: 5095276119223142295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_203
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 70
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4e82a54cc4f9f650800000000000000
+      internalID: 6267309514641542733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_204
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 72
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7202a2dfe4989670800000000000000
+      internalID: 8545744050687443578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_205
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 71
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 056f2e5c8985da770800000000000000
+      internalID: 8623646274662626896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario
+        & Luigi_ Superstar Saga-Style)_206
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 70
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b326c86a6606d110800000000000000
+      internalID: 1285221797754971065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_0: -3670692648503247873
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_1: -7506456902397174596
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_10: -5551531405876549935
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_100: 695971386249105354
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_101: 345096880778460907
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_102: -9139588529538562344
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_103: 3604348158444067633
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_104: 2235672674348875721
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_105: -6950511690615254056
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_106: -6639715261706802213
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_107: -6773694086467788831
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_108: 6147219875066940071
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_109: 3265697254608540648
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_11: -8166001084884522116
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_110: 7078533899042493625
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_111: 4883338673051646356
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_112: -5526505515483227457
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_113: 3046526494345425049
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_114: 5798096562908484327
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_115: 1622567855984497427
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_116: -373255831425991469
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_117: -8879889402712936584
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_118: -4739221248833778693
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_119: 1937672142657783645
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_12: 8388385796191817713
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_120: 6603468749450462909
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_121: 8280965302197407740
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_122: -462046000801428496
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_123: 1692292248709606380
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_124: 4054141708998787676
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_125: 8506512932587655181
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_126: -710957139876694703
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_127: -2408725796544106081
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_128: -6752105432296844048
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_129: 9215652727175938054
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_13: -4646237064352858943
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_130: -1973300358737393641
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_131: -6649508526349576648
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_132: 5768582977123019609
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_133: -2140956451066923468
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_134: -1478365744307192291
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_135: -4288865645117208900
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_136: -8786358621103051531
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_137: 3643492959930824478
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_138: -6410225353815967241
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_139: 1885071700945903944
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_14: 2434445086263821250
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_140: -1525061626040242001
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_141: -2840853413902790799
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_142: 8251379069150372826
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_143: -9087746873442765253
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_144: -9121431896962314321
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_145: -1199845063327274954
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_146: -8943911363443244574
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_147: 3189182161901855737
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_148: -7243576206535707984
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_149: 5690160612075203630
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_15: 375728374351362479
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_150: -5135827198586391844
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_151: -3737688497803789062
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_152: 169640482840155177
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_153: -639544785824289107
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_154: -4947550394132742806
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_155: 5956370826027038348
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_156: 3206027045170595893
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_157: 1726754627423203410
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_158: -3191690640002845503
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_159: 2936681754435621273
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_16: 7740225796474598193
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_160: -3940931593145686966
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_161: 3661703720293530530
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_162: -8026151486774962150
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_163: -8218295676520032564
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_164: 5757811855404790685
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_165: -5195729633590035426
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_166: 7694022049582473652
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_167: 7672792120827278667
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_168: 1603131434094781709
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_169: 1558228549115781291
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_17: -6905228710215718226
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_170: 4277625936207932622
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_171: 7792292936686265594
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_172: 7578791009583270024
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_173: 2739497223605152834
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_174: -6741340425127391136
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_175: -1251627411717414148
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_176: -5426880214670256109
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_177: -7116270992869381783
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_178: -274819968109262413
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_179: 58411660758564674
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_18: 5116151285152293979
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_180: 6250115552161301582
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_181: 4356911629365234041
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_182: -7144104086912656869
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_183: 5283358237873809775
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_184: 673471930126771828
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_185: -7866703894237036294
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_186: 4475022674223125097
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_187: -8272758920828124191
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_188: 8098606155140260789
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_189: 1332639599349583377
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_19: -6957055737123046546
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_190: 7679225588638850981
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_191: -6663102188615405970
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_192: 1409246677067014989
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_193: 2858182572632673168
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_194: -1564603279724309583
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_195: -4829214506102721098
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_196: -7883119498984612797
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_197: -9182763802710833990
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_198: 8763801012822632965
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_199: 627658285162003143
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_2: -7664839286732593614
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_20: -3801012646904646676
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_200: -7772818951510629254
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_201: 8737586423116946736
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_202: 5095276119223142295
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_203: 6267309514641542733
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_204: 8545744050687443578
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_205: 8623646274662626896
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_206: 1285221797754971065
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_21: -5522586264375531716
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_22: -3628140431366136834
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_23: 7710034721950336974
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_24: 3285666849213271896
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_25: 2998842560391892377
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_26: -94270084255009287
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_27: -7544270495186784674
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_28: 8903451921647434921
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_29: 7695445613966961748
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_3: 6444316259605484887
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_30: 3724449979919429409
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_31: 1126413762659731172
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_32: 4032630993907012708
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_33: 8723708077142418327
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_34: 5543960147341592879
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_35: -1908923280231574799
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_36: -8621539941539295634
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_37: -2013091627718103401
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_38: -9051020427064622054
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_39: 6765482805653544400
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_4: -2680125280804976938
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_40: -6834283033551588716
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_41: 2823903400573326013
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_42: 8927435249869294729
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_43: 3223490843341836071
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_44: 5379796794264577406
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_45: -2919591629805881280
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_46: 1028059730304878574
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_47: -8241177187020342049
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_48: -3169318474385100775
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_49: -1761311761377702309
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_5: -7704483228911607478
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_50: -2353543956271470046
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_51: -8795747794758772798
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_52: 1449187135988478007
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_53: 1301504355600377959
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_54: -2996136579423743843
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_55: 87377023636976926
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_56: -5063120451908234041
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_57: 6231512276083503663
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_58: -9077233314688786154
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_59: 2805044757459020505
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_6: -5404634089699813931
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_60: 6317091470223997872
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_61: 475457826951724170
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_62: -636834538057799312
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_63: -5311324723974207898
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_64: -8370109272731679585
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_65: -1392167645885929417
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_66: -6806188111081672859
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_67: 7946053158342058994
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_68: 9176307330705482268
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_69: -3477042554041666253
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_7: 4856346116316762175
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_70: -1052461366889031857
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_71: 8865064140784047472
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_72: -2488423762419423236
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_73: -4231941302119120850
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_74: -4308744287531019689
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_75: -8596286271357172459
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_76: 4162116661481335730
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_77: -5251694356909210189
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_78: -987008585629556832
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_79: -968984969665601784
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_8: 5793954568044559737
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_80: 2760219665055787407
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_81: 1844172787703254551
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_82: 9054794511771778971
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_83: -6355797712057806720
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_84: -2728380371681381448
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_85: 8365313042773599880
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_86: 226113406427043442
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_87: -7531400614794964298
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_88: -6914433682233603146
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_89: -5142767247654635105
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_9: 4279866629950773029
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_90: -6220599177846320995
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_91: -6415301614351426242
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_92: -3508100349770525981
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_93: 482706137290573521
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_94: 2625565072394915523
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_95: -5845770222058541016
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_96: 8723266049198979507
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_97: 2365590499737407316
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_98: 6998563650782486668
+      Custom _ Edited - Mario Customs - Boo & Related Enemies - Boo (Mario & Luigi_ Superstar Saga-Style)_99: 3323534401161965533
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

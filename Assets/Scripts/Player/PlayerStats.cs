@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class PlayerStats : MonoBehaviour
 {
@@ -22,9 +23,17 @@ public class PlayerStats : MonoBehaviour
         }
     }
 
-    private void Die()
+    private void Die() //Al morir, reinicio el nivel
     {
-        Destroy(gameObject);
+        //Destroy(gameObject);
+
+        //Reset Level
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+        int currentSceneIndex = SceneManager.GetActiveScene().buildIndex;
+
+        SceneManager.LoadScene(currentSceneIndex);
+
+        Debug.Log("El jugador ha muerto. Reiniciando nivel...");
     }
 
     public void AddCoins(int amount)
